@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Compass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Compass/Large" sketch:type="MSLayerGroup">
+            <g id="Compass">
+                <rect id="app-bg" fill="#141415" sketch:type="MSShapeGroup" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <g id="Grey-lines" transform="translate(8.000000, 8.000000)" stroke="#868686" stroke-linecap="round" sketch:type="MSShapeGroup">
+                    <path d="M51.5,0.5 L51.5,6.5" id="Line"></path>
+                    <path d="M52.5,97.5 L52.5,103.5" id="Line"></path>
+                    <path d="M32.9779138,4.38318439 L32.9779138,10.3831844" id="Line" transform="translate(32.977914, 7.383184) rotate(-22.500000) translate(-32.977914, -7.383184) "></path>
+                    <path d="M71.0220862,93.6168156 L71.0220862,99.6168156" id="Line" transform="translate(71.022086, 96.616816) rotate(-22.500000) translate(-71.022086, -96.616816) "></path>
+                    <path d="M27.3169873,7.24776792 L27.3169873,13.2477679" id="Line" transform="translate(27.316987, 10.247768) rotate(-30.000000) translate(-27.316987, -10.247768) "></path>
+                    <path d="M76.6830127,90.7522321 L76.6830127,96.7522321" id="Line" transform="translate(76.683013, 93.752232) rotate(-30.000000) translate(-76.683013, -93.752232) "></path>
+                    <path d="M22.078394,10.8267437 L22.078394,16.8267437" id="Line" transform="translate(22.078394, 13.826744) rotate(-37.500000) translate(-22.078394, -13.826744) "></path>
+                    <path d="M81.921606,87.1732563 L81.921606,93.1732563" id="Line" transform="translate(81.921606, 90.173256) rotate(-37.500000) translate(-81.921606, -90.173256) "></path>
+                    <path d="M13.2179823,19.8717474 L13.2179823,25.8717474" id="Line" transform="translate(13.217982, 22.871747) rotate(-52.500000) translate(-13.217982, -22.871747) "></path>
+                    <path d="M90.7820177,78.1282526 L90.7820177,84.1282526" id="Line" transform="translate(90.782018, 81.128253) rotate(-52.500000) translate(-90.782018, -81.128253) "></path>
+                    <path d="M9.74776792,25.1830127 L9.74776792,31.1830127" id="Line" transform="translate(9.747768, 28.183013) rotate(-60.000000) translate(-9.747768, -28.183013) "></path>
+                    <path d="M94.2522321,72.8169873 L94.2522321,78.8169873" id="Line" transform="translate(94.252232, 75.816987) rotate(-60.000000) translate(-94.252232, -75.816987) "></path>
+                    <path d="M7.00050096,30.9017933 L7.00050096,36.9017933" id="Line" transform="translate(7.000501, 33.901793) rotate(-67.500000) translate(-7.000501, -33.901793) "></path>
+                    <path d="M96.999499,67.0982067 L96.999499,73.0982067" id="Line" transform="translate(96.999499, 70.098207) rotate(-67.500000) translate(-96.999499, -70.098207) "></path>
+                    <path d="M3.84966113,43.1652021 L3.84966113,49.1652021" id="Line" transform="translate(3.849661, 46.165202) rotate(-82.500000) translate(-3.849661, -46.165202) "></path>
+                    <path d="M100.150339,54.8347979 L100.150339,60.8347979" id="Line" transform="translate(100.150339, 57.834798) rotate(-82.500000) translate(-100.150339, -57.834798) "></path>
+                    <path d="M3.5,49.5 L3.5,55.5" id="Line" transform="translate(3.500000, 52.500000) rotate(-90.000000) translate(-3.500000, -52.500000) "></path>
+                    <path d="M100.5,48.5 L100.5,54.5" id="Line" transform="translate(100.500000, 51.500000) rotate(-90.000000) translate(-100.500000, -51.500000) "></path>
+                    <path d="M3.98018732,55.8262428 L3.98018732,61.8262428" id="Line" transform="translate(3.980187, 58.826243) rotate(-97.500000) translate(-3.980187, -58.826243) "></path>
+                    <path d="M100.019813,42.1737572 L100.019813,48.1737572" id="Line" transform="translate(100.019813, 45.173757) rotate(-97.500000) translate(-100.019813, -45.173757) "></path>
+                    <path d="M7.38318439,68.0220862 L7.38318439,74.0220862" id="Line" transform="translate(7.383184, 71.022086) rotate(-112.500000) translate(-7.383184, -71.022086) "></path>
+                    <path d="M96.6168156,29.9779138 L96.6168156,35.9779138" id="Line" transform="translate(96.616816, 32.977914) rotate(-112.500000) translate(-96.616816, -32.977914) "></path>
+                    <path d="M10.2477679,73.6830127 L10.2477679,79.6830127" id="Line" transform="translate(10.247768, 76.683013) rotate(-120.000000) translate(-10.247768, -76.683013) "></path>
+                    <path d="M93.7522321,24.3169873 L93.7522321,30.3169873" id="Line" transform="translate(93.752232, 27.316987) rotate(-120.000000) translate(-93.752232, -27.316987) "></path>
+                    <path d="M13.8267437,78.921606 L13.8267437,84.921606" id="Line" transform="translate(13.826744, 81.921606) rotate(-127.500000) translate(-13.826744, -81.921606) "></path>
+                    <path d="M90.1732563,19.078394 L90.1732563,25.078394" id="Line" transform="translate(90.173256, 22.078394) rotate(-127.500000) translate(-90.173256, -22.078394) "></path>
+                    <path d="M22.8717474,87.7820177 L22.8717474,93.7820177" id="Line" transform="translate(22.871747, 90.782018) rotate(-142.500000) translate(-22.871747, -90.782018) "></path>
+                    <path d="M81.1282526,10.2179823 L81.1282526,16.2179823" id="Line" transform="translate(81.128253, 13.217982) rotate(-142.500000) translate(-81.128253, -13.217982) "></path>
+                    <path d="M28.1830127,91.2522321 L28.1830127,97.2522321" id="Line" transform="translate(28.183013, 94.252232) rotate(-150.000000) translate(-28.183013, -94.252232) "></path>
+                    <path d="M75.8169873,6.74776792 L75.8169873,12.7477679" id="Line" transform="translate(75.816987, 9.747768) rotate(-150.000000) translate(-75.816987, -9.747768) "></path>
+                    <path d="M33.9017933,93.999499 L33.9017933,99.999499" id="Line" transform="translate(33.901793, 96.999499) rotate(-157.500000) translate(-33.901793, -96.999499) "></path>
+                    <path d="M70.0982067,4.00050096 L70.0982067,10.000501" id="Line" transform="translate(70.098207, 7.000501) rotate(-157.500000) translate(-70.098207, -7.000501) "></path>
+                    <path d="M46.1652021,97.1503389 L46.1652021,103.150339" id="Line" transform="translate(46.165202, 100.150339) rotate(-172.500000) translate(-46.165202, -100.150339) "></path>
+                    <path d="M57.8347979,0.849661127 L57.8347979,6.84966113" id="Line" transform="translate(57.834798, 3.849661) rotate(-172.500000) translate(-57.834798, -3.849661) "></path>
+                    <path d="M58.8262428,97.0198127 L58.8262428,103.019813" id="Line" transform="translate(58.826243, 100.019813) rotate(-187.500000) translate(-58.826243, -100.019813) "></path>
+                    <path d="M45.1737572,0.980187319 L45.1737572,6.98018732" id="Line" transform="translate(45.173757, 3.980187) rotate(-187.500000) translate(-45.173757, -3.980187) "></path>
+                </g>
+                <g id="White-lines" transform="translate(9.000000, 9.000000)" stroke="#FFFFFF" stroke-width="1.5" sketch:type="MSShapeGroup" stroke-linecap="round">
+                    <path d="M37.75,1.28200695 L37.75,7.28200695" id="Line" transform="translate(37.750000, 4.282007) rotate(-15.000000) translate(-37.750000, -4.282007) "></path>
+                    <path d="M63.75,94.7179931 L63.75,100.717993" id="Line" transform="translate(63.750000, 97.717993) rotate(-15.000000) translate(-63.750000, -97.717993) "></path>
+                    <path d="M16.75,14.2830184 L16.75,20.2830184" id="Line" transform="translate(16.750000, 17.283018) rotate(-45.000000) translate(-16.750000, -17.283018) "></path>
+                    <path d="M85.75,82.1652694 L85.75,88.1652694" id="Line" transform="translate(85.750000, 85.165269) rotate(-45.000000) translate(-85.750000, -85.165269) "></path>
+                    <path d="M3.75,35.2837926 L3.75,41.2837926" id="Line" transform="translate(3.750000, 38.283793) rotate(-75.000000) translate(-3.750000, -38.283793) "></path>
+                    <path d="M97.75,60.4233142 L97.75,66.4233142" id="Line" transform="translate(97.750000, 63.423314) rotate(-75.000000) translate(-97.750000, -63.423314) "></path>
+                    <path d="M3.75,61.2002639 L3.75,67.2002639" id="Line" transform="translate(3.750000, 64.200264) rotate(-106.000000) translate(-3.750000, -64.200264) "></path>
+                    <path d="M97.75,35.5021787 L97.75,41.5021787" id="Line" transform="translate(97.750000, 38.502179) rotate(-106.000000) translate(-97.750000, -38.502179) "></path>
+                    <path d="M16.75,82.4532292 L16.75,88.4532292" id="Line" transform="translate(16.750000, 85.453229) rotate(-136.000000) translate(-16.750000, -85.453229) "></path>
+                    <path d="M84.75,12.9826102 L84.75,18.9826102" id="Line" transform="translate(84.750000, 15.982610) rotate(-136.000000) translate(-84.750000, -15.982610) "></path>
+                    <path d="M38.75,95.1718551 L38.75,101.171855" id="Line" transform="translate(38.750000, 98.171855) rotate(-166.000000) translate(-38.750000, -98.171855) "></path>
+                    <path d="M62.75,0.811247753 L62.75,6.81124775" id="Line" transform="translate(62.750000, 3.811248) rotate(-166.000000) translate(-62.750000, -3.811248) "></path>
+                </g>
+                <g id="Minor-compass" transform="translate(38.000000, 38.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-25" fill="#222223" cx="22" cy="22" r="22"></circle>
+                    <path d="M22,0 L22,44" id="Line" stroke="#B7B7B7" stroke-width="2"></path>
+                    <path d="M0,22 L44,22" id="Line" stroke="#B7B7B7" stroke-width="2"></path>
+                </g>
+                <text id="W" sketch:type="MSTextLayer" font-family="SF UI Text" font-size="14" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="30.2255859" y="41">W</tspan>
+                </text>
+                <text id="N" sketch:type="MSTextLayer" font-family="SF UI Text" font-size="14" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="78.8046875" y="41">N</tspan>
+                </text>
+                <text id="S" sketch:type="MSTextLayer" font-family="SF UI Text" font-size="14" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="32.0395508" y="89">S</tspan>
+                </text>
+                <text id="E" sketch:type="MSTextLayer" font-family="SF UI Text" font-size="14" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="79.8300781" y="89">E</tspan>
+                </text>
+                <polygon id="North" fill="#FF3B30" sketch:type="MSShapeGroup" transform="translate(104.500000, 15.500000) rotate(-315.000000) translate(-104.500000, -15.500000) " points="104.5 10 111 21 98 21 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

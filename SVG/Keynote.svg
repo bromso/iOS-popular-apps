@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Keynote</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1E64F1" offset="0%"></stop>
+            <stop stop-color="#1AD4FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Keynote/Large" sketch:type="MSLayerGroup">
+            <g id="Keynote" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="26"></rect>
+                <path d="M44.9918842,94 C43.8917969,94 43,94.9000989 43,96.0010434 L43,94.9989566 C43,96.1041023 43.8997849,97 45.0022853,97 L73.9977147,97 C75.1035463,97 76,96.0999011 76,94.9989566 L76,96.0010434 C76,94.8958977 75.1066027,94 74.0081158,94 L65.0000202,94 C62.7908701,94 61,92.1993157 61,89.9949259 L61,64.9982138 C61,63.8946308 60.0999011,63 58.9989566,63 L60.0010434,63 C58.8958977,63 58,63.8943377 58,64.9982138 L58,89.9949259 C58,92.2068672 56.2055487,94 53.9999798,94 L44.9918842,94 Z" id="lower-stand" fill="#D8D8D8"></path>
+                <rect id="top-stand" fill="#FFFFFF" x="24" y="58" width="72" height="3"></rect>
+                <path d="M27.1300529,29.0000191 C27.1993991,27.3431543 28.6053952,26 30.2644231,26 L88.8715659,26 C90.5332846,26 91.9306569,27.3473186 91.9923371,29.0000191 L93,56 L26,56 L27.1300529,29.0000191 Z" id="reader-stand" fill="#FFFFFF"></path>
+                <path d="M33.9996338,27.0085449 L33.9996338,21.0335906 C33.9996338,18.8247095 35.7893169,17.0340576 37.9979934,17.0340576 L48.0180664,17.0340576" id="lamp-arm" stroke="#FFFFFF" stroke-width="2"></path>
+                <rect id="lamp" fill="#FFFFFF" x="47" y="14" width="13" height="6" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

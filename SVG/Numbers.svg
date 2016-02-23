@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Numbers</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="1.14397321%" id="linearGradient-1">
+            <stop stop-color="#11D61D" offset="0%"></stop>
+            <stop stop-color="#83FB6D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Numbers/Large" sketch:type="MSLayerGroup">
+            <g id="Numbers" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="26"></rect>
+                <path d="M17.5,95.5 L101.5,95.5" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                <rect id="stack-1" fill="#FFFFFF" x="17" y="77" width="19" height="14" rx="1"></rect>
+                <rect id="stack-2" fill="#FFFFFF" x="39" y="59" width="19" height="32" rx="1"></rect>
+                <rect id="stack-3" fill="#FFFFFF" x="61" y="23" width="19" height="68" rx="1"></rect>
+                <rect id="stack-4" fill="#FFFFFF" x="83" y="42" width="19" height="49" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Beats Pills+</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Beats-Pills+/Large" sketch:type="MSLayerGroup">
+            <g id="Beats-Pills+" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#333333" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M50,28.5548105 C53.1523073,27.545123 56.5124935,27 60,27 C78.0873256,27 92.75,41.6626744 92.75,59.75 C92.75,77.8373256 78.0873256,92.5 60,92.5 C41.9126744,92.5 27.25,77.8373256 27.25,59.75 C27.25,47.4737252 34.0045697,36.7750646 43.9999929,31.1677345 L44,61 L44.030742,61 C44.5469384,69.3707297 51.4992947,76 60,76 C68.836556,76 76,68.836556 76,60 C76,51.163444 68.836556,44 60,44 C56.2162132,44 52.7391959,45.3134366 50,47.5092581 L50,28.5548105 Z" id="Oval-70" fill="#FFFFFF"></path>
+                <circle id="Oval-71" fill="#FFFFFF" cx="60" cy="60" r="10"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

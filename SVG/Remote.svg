@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Remote</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#1E6DEE" offset="0%"></stop>
+            <stop stop-color="#1BD1FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Remote/Large" sketch:type="MSLayerGroup">
+            <g id="Remote" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#FFFFFF" x="0" y="0" width="120" height="120" rx="26"></rect>
+                <circle id="Circle" fill="url(#linearGradient-1)" cx="60" cy="60" r="52"></circle>
+                <path d="M44,82 L44,38 L89,60 L44,82 Z" id="Play" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

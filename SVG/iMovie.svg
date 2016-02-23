@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>iMovie</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#763EC1" offset="0%"></stop>
+            <stop stop-color="#0D1277" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/iMovie/Large" sketch:type="MSLayerGroup">
+            <g id="iMovie" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M39.2310653,70.1550418 L25.8995421,109.789911 L60.0701733,86.6978022 L79.6521328,100.050283 L94.1831646,110.797369 L82.7555523,70.600297 L111.437026,47.0151223 L72.6362987,47.0338061 L59.8717454,8.78991123 L47.0039367,47.0461488 L8.01114064,47.0649251 L39.2310653,70.1550418 L39.2310653,70.1550418 Z M48,55.9950893 C48,54.8932319 48.9023438,54 49.9945615,54 L67.0054385,54 C68.1070044,54 69,54.8926228 69,55.9950893 L69,70.0049107 C69,71.1067681 68.0976562,72 67.0054385,72 L49.9945615,72 C48.8929956,72 48,71.1073772 48,70.0049107 L48,55.9950893 Z M44,58.5001649 C44,57.6716467 44.6657972,57 45.5,57 L47,57 L47,62 L45.5,62 C44.6715729,62 44,61.3256778 44,60.4998351 L44,58.5001649 Z M70,60.3529412 L76,56.1176471 L76,70.2352941 L70,65.6470588 L70,60.3529412 Z" id="iMovie-icon" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="121px" height="120px" viewBox="0 0 121 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Logic Remote</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#7A8791" offset="0%"></stop>
+            <stop stop-color="#7A8791" offset="0.564874387%"></stop>
+            <stop stop-color="#75828B" offset="39.6643814%"></stop>
+            <stop stop-color="#929CA4" offset="42.9288903%"></stop>
+            <stop stop-color="#88929B" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-2" cx="59.6153846" cy="60" rx="50.6730769" ry="51"></ellipse>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Logic-Remote/Large" sketch:type="MSLayerGroup" transform="translate(-15.000000, 0.000000)">
+            <g id="Logic-Remote" transform="translate(15.897436, 0.000000)">
+                <rect id="app-bg" fill="#202020" sketch:type="MSShapeGroup" x="0" y="0" width="119.230769" height="120" rx="28"></rect>
+                <g id="Oval-73">
+                    <use fill="url(#radialGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <use fill="" xlink:href="#path-2"></use>
+                </g>
+                <ellipse id="Oval-73" fill="#000000" sketch:type="MSShapeGroup" cx="59.6153846" cy="60" rx="2.48397436" ry="2.5"></ellipse>
+                <g id="Group-2" transform="translate(16.891026, 17.000000)" stroke="#B6BCC0" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-73" cx="43.2211538" cy="43.5" rx="43.2211538" ry="43.5"></ellipse>
+                    <ellipse id="Oval-73" cx="43.2211538" cy="43.5" rx="36.2660256" ry="36.5"></ellipse>
+                    <ellipse id="Oval-73" cx="42.724359" cy="43" rx="27.8205128" ry="28"></ellipse>
+                    <ellipse id="Oval-73" cx="42.724359" cy="43" rx="20.8653846" ry="21"></ellipse>
+                    <ellipse id="Oval-73" cx="42.724359" cy="43" rx="13.9102564" ry="14"></ellipse>
+                    <ellipse id="Oval-73" cx="42.724359" cy="43" rx="13.9102564" ry="14"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

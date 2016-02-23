@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>TestFlight</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="51.8611312%" x2="100%" y2="51.8611312%" id="linearGradient-1">
+            <stop stop-color="#103355" offset="0%"></stop>
+            <stop stop-color="#174F86" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="2341" height="2419"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#4698D2" offset="0%"></stop>
+            <stop stop-color="#1561AD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Background" sketch:type="MSLayerGroup" transform="translate(-341.000000, -2147.000000)">
+            <g>
+                <use fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                <use fill-opacity="0.5" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+            </g>
+        </g>
+        <g id="iOS/iPhone-6/App-Badges/TestFlight/Large" sketch:type="MSLayerGroup">
+            <g id="TestFlight" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-4)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <g id="Reference-lines" transform="translate(13.000000, 12.000000)" stroke="#FFFFFF">
+                    <path d="M0,4.5 L94,4.5" id="Line" stroke-width="1.5" stroke-linecap="round" opacity="0.25"></path>
+                    <path d="M3.5,0.5 L3.5,96.5" id="Line" stroke-width="1.5" stroke-linecap="round" opacity="0.25" transform="translate(3.500000, 48.500000) scale(-1, -1) translate(-3.500000, -48.500000) "></path>
+                    <path d="M90.5,0.5 L90.5,96.5" id="Line" stroke-width="1.5" stroke-linecap="round" opacity="0.25" transform="translate(90.500000, 48.500000) scale(-1, -1) translate(-90.500000, -48.500000) "></path>
+                    <path d="M0,91.5 L94,91.5" id="Line" stroke-width="1.5" stroke-linecap="round" opacity="0.25"></path>
+                    <circle id="Oval-68" stroke-width="1.5" opacity="0.25" cx="47.5" cy="48.5" r="37.5"></circle>
+                    <rect id="outer-lines" stroke-width="2" x="2.75" y="4" width="88.5" height="88.5" rx="21"></rect>
+                </g>
+                <g id="X" transform="translate(58.000000, 59.000000)" stroke="#FFFFFF" stroke-linecap="round" opacity="0.25">
+                    <path d="M0,0 L4,4" id="LineLine"></path>
+                    <path d="M0,0 L4,4" id="LineLine" transform="translate(2.000000, 2.000000) scale(-1, 1) translate(-2.000000, -2.000000) "></path>
+                </g>
+                <g id="Propellers" transform="translate(25.000000, 23.000000)">
+                    <circle id="Oval-68" stroke="#FFFFFF" stroke-width="1.5" cx="35" cy="38" r="7"></circle>
+                    <path d="M29.821715,3.07448854 C29.7905523,1.41925785 31.1139345,0.0774282472 32.7656198,0.0774282472 L36.7649603,0.0774282472 C38.4219966,0.0774282472 39.7775446,1.43039483 39.7809638,3.07714613 C39.7809638,3.07714613 40.0922852,21.1248785 37.7729491,31.4069827 C37.0229491,31.4069819 33.0229491,31.4069819 32.7729491,31.4069827 C29.9202325,21.1987804 29.821715,3.07448854 29.821715,3.07448854 Z M32.144333,6.05874348 C32.1386077,5.50696989 32.5867182,5.05966901 33.1390005,5.05966901 L36.8987991,5.05966901 C37.4538641,5.05966901 37.9076333,5.51402601 37.9105861,6.05552123 C37.9105861,6.05552123 38.092505,21.7624021 36.754279,29.9220242 C36.321539,29.9220236 34.0135923,29.9220236 33.8693456,29.9220242 C32.2233662,21.8210488 32.144333,6.05874348 32.144333,6.05874348 Z" id="Top-propeller" fill="#FFFFFF"></path>
+                    <path d="M54.7875302,63.2317214 C53.4453763,63.1956675 52.0934186,63.6155977 52.0609344,63.4896917 C49.3990991,53.1726369 49.305068,35.8875354 49.305068,35.8875354 C49.2739397,34.2309946 50.5973497,32.888103 52.2490349,32.888103 L56.2483755,32.888103 C57.9054118,32.888103 59.2609239,34.2346868 59.2644651,35.8842002 C59.2644651,35.8842002 59.5649027,53.3095947 57.3756934,63.6710157 C57.3566022,63.7613737 56.075757,63.2663267 54.7875302,63.2317214 Z M51.6277482,38.8694182 C51.6220229,38.3176446 52.0701334,37.8703438 52.6224157,37.8703438 L56.3822143,37.8703438 C56.9372793,37.8703438 57.3910485,38.3247008 57.3940013,38.866196 C57.3940013,38.866196 57.5759202,54.5730768 56.2376942,62.732699 C55.8049542,62.7326984 53.4970075,62.7326984 53.3527608,62.732699 C51.7067814,54.6317235 51.6277482,38.8694182 51.6277482,38.8694182 Z" id="Top-propeller" fill="#FFFFFF" transform="translate(54.291465, 48.285059) rotate(-240.000000) translate(-54.291465, -48.285059) "></path>
+                    <path d="M11.0732011,36.4834247 C11.0420384,34.828194 12.3654206,33.4863644 14.0171059,33.4863644 L18.0164464,33.4863644 C19.6734828,33.4863644 21.0290307,34.839331 21.0324499,36.4860823 C21.0324499,36.4860823 21.3437713,54.5338146 19.0244352,64.8159188 C18.2744352,64.815918 14.2744352,64.815918 14.0244352,64.8159188 C11.1717186,54.6077165 11.0732011,36.4834247 11.0732011,36.4834247 Z M13.3958191,39.4676796 C13.3900938,38.915906 13.8382043,38.4686051 14.3904866,38.4686051 L18.1502852,38.4686051 C18.7053502,38.4686051 19.1591195,38.9229621 19.1620722,39.4644574 C19.1620722,39.4644574 19.3439911,55.1713382 18.0057651,63.3309604 C17.5730251,63.3309597 15.2650784,63.3309597 15.1208318,63.3309604 C13.4748523,55.2299849 13.3958191,39.4676796 13.3958191,39.4676796 Z" id="Top-propeller" fill="#FFFFFF" transform="translate(16.059528, 49.151142) rotate(-120.000000) translate(-16.059528, -49.151142) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

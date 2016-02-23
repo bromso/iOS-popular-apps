@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#898C90" offset="0%"></stop>
+            <stop stop-color="#DCDDDE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="81.7223374%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#2B2B2B" offset="0%"></stop>
+            <stop stop-color="#494949" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.245 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.525 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="97.4071269%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#E7B61D" offset="0%"></stop>
+            <stop stop-color="#FFC30B" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Camera/Large" sketch:type="MSLayerGroup">
+            <g id="Camera" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M17.7336703,40 L17.7336703,84 L102,84 L102,40 L17.7336703,40 L17.7336703,40 Z M17.7336703,39 L17.7336703,38.0553637 C17.7336703,35.2636795 19.7881245,33 22.3212211,33 L35.6260364,33 L35.6260364,33 C38.2093482,32.6493058 41.8804257,30.4338682 43.7969604,25.8933295 C45.3288682,22.264026 51.1560539,23.1237233 51.034441,23.0132194 L69.6435548,23.0132194 C69.6021365,23.0957113 75.1312871,22.8130982 76.2029432,25.9291375 C78.0580895,31.3233203 83.3268409,32.7594331 84.4038302,33 L97.4124493,33 C99.9472312,33 102,35.2618071 102,38.0553637 L102,39 L17.7336703,39 Z M17.7336703,85 L17.7336703,85.9446363 C17.7336703,88.7363205 19.7864392,91 22.3212211,91 L97.4124493,91 C99.9472312,91 102,88.7363205 102,85.9446363 L102,85 L17.7336703,85 L17.7336703,85 Z M25.8456299,30.0033339 C25.8456299,29.451132 26.3182014,29.002839 26.9011432,29.002839 L31.678157,29.002839 C32.2610988,29.002839 32.7336703,29.451132 32.7336703,30.0033339 L32.7336703,32.002839 L25.8456299,32.002839 L25.8456299,30.0033339 Z" id="camera-body" fill="url(#linearGradient-2)" filter="url(#filter-3)"></path>
+                <circle id="lens" stroke="#BCBEC1" stroke-width="3" filter="url(#filter-4)" cx="60" cy="62" r="18"></circle>
+                <circle id="yellow-light" fill="url(#linearGradient-5)" filter="url(#filter-6)" cx="79" cy="46" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

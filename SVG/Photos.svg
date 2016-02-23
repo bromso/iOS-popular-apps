@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Photos</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Photos/Large" sketch:type="MSLayerGroup">
+            <g id="Photos" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#FFFFFF" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <rect id="orange" fill="#FCB92F" x="43.5789474" y="9" width="33.1157895" height="48.7157895" rx="60"></rect>
+                <rect id="red" fill="#F37362" x="23.9318322" y="17.1318322" width="33.1157895" height="48.7157895" rx="60"></rect>
+                <rect id="dark-purple" fill="#D288B1" x="15.8" y="36.7789474" width="33.1157895" height="48.7157895" rx="60"></rect>
+                <rect id="purple" fill="#A38EC3" x="23.9318322" y="56.2686743" width="33.1157895" height="48.7157895" rx="60"></rect>
+                <rect id="blue" fill="#6BB6E4" x="43.3052632" y="64.2842105" width="33.1157895" height="48.7157895" rx="60"></rect>
+                <rect id="dark-green" fill="#6AC288" x="63.0686743" y="56.2686743" width="33.1157895" height="48.7157895" rx="60"></rect>
+                <rect id="light-green" fill="#BDD84F" x="71.0842105" y="36.7789474" width="33.1157895" height="48.7157895" rx="60"></rect>
+                <path d="M73.4316626,24.2682341 C79.8991044,17.8007922 90.3825197,17.7984125 96.8502016,24.2660944 L96.8502016,24.2660944 C103.316462,30.7323545 103.317238,41.2154572 96.8480619,47.6846334 L85.8214755,58.7112198 C79.3540336,65.1786616 68.8706184,65.1810413 62.4029365,58.7133595 L62.4029365,58.7133595 C55.9366764,52.2470994 55.9359,41.7639967 62.4050762,35.2948205 L73.4316626,24.2682341 Z" id="yellow" fill="#F9EE22"></path>
+            </g>
+        </g>
+    </g>
+</svg>

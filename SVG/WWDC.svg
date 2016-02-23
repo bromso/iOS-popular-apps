@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>WWDC</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#787AFF" offset="0%"></stop>
+            <stop stop-color="#A162FB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/WWDC/Large" sketch:type="MSLayerGroup">
+            <g id="WWDC" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <g id="Apple" transform="translate(27.000000, 15.000000)" fill="#D8D8D8">
+                    <path d="M54.8269179,42.2664231 C54.7352028,32.2255385 63.1729861,27.3406154 63.5588217,27.1131923 C58.7801521,20.25 51.3733724,19.3122692 48.770563,19.2375 C42.5497535,18.5926154 36.5155368,22.9043077 33.3466242,22.9043077 C30.1144598,22.9043077 25.2345875,19.2998077 19.9752046,19.4057308 C13.2072675,19.5085385 6.87576752,23.3685 3.40324654,29.3625 C-3.76317653,41.5841538 1.58159619,59.5443462 8.44757347,69.4232308 C11.8821434,74.2614231 15.8954668,79.6635 21.1485245,79.4734615 C26.2877291,79.2647308 28.2074196,76.2459231 34.4092535,76.2459231 C40.5541609,76.2459231 42.3568357,79.4734615 47.7142588,79.3519615 C53.2298112,79.2647308 56.7023322,74.4919615 60.0167238,69.6101538 C63.985771,64.0647692 65.5797151,58.6035 65.6429668,58.3231154 C65.5133007,58.2795 54.9312833,54.3011538 54.8269179,42.2664231 L54.8269179,42.2664231 Z" id="Shape"></path>
+                    <path d="M44.7066382,12.7388077 C47.4707395,9.33369231 49.3619668,4.70111538 48.8369773,0 C44.8363042,0.174461538 39.8330909,2.72596154 36.9519738,6.05630769 C34.4029284,8.991 32.1258654,13.8011538 32.7141067,18.3246923 C37.2081434,18.6549231 41.8223584,16.0909615 44.7066382,12.7388077 L44.7066382,12.7388077 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

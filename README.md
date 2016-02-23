@@ -1,9 +1,7 @@
-# iOS 9 GUI (iPhone)
-Sketch template of GUI elements found in the public release of iOS 9
-
-The sole purpose of this template is to give a application team the ability to start wireframing, UX, UI and branding at the same time, by collaborating all their work into one document. Trying to how most system developers team work to the creative process.
-* Created by [Facebook Design](https://twitter.com/jonasbroms)
-* Contributor [Jonas Bröms](https://twitter.com/jonasbroms).
+![Sketch-example](images/header.png)
+# 83 vectorized iOS popular apps (iPhone)
+Sketch vectorized template of 83 popular iOS apps.
+Created by [Jonas Bröms](https://twitter.com/jonasbroms).
 
 ## Table of contents
 * [File formats](#file-formats)
@@ -11,121 +9,53 @@ The sole purpose of this template is to give a application team the ability to s
 * [Graphical Assets](#graphical-assets)
 * [Shared styles structure](#shared-styles-structure)
 * [What's new](#whats-new)
+* [Bugs](#bugs)
 * [Future improvements](#future-improvements)
-* [Versioning](#versioning)
-* [Creators](#creators)
+* [Version](#version)
+* [Creator](#creator)
 * [Special thanks to](#special-thanks-to)
 * [Copyright and license](#copyright-and-license)
 * [Disclaimer](#disclaimer)
 
 ## File formats
 Following file formats are included within this template:
-* Sketch file
 * Documentation (README.md)
+* Sketch file
+* PNG (60x60px, 76x76px, 80x80px, 120x120px, 167x167px, 180x180px)
+* SVG
 
-## Overall Structure
+## Text Styles Structure
 ```
 Symbol/
 └── iOS/
-    └── iPhone 6
-        └── Component # 1
-            └── 1 Option
-                ├── ([]) Shape #1
-                ├── ([]) Shape #2
-                ├── (│) Line #1
-                ├── (│) Line #2
-                ├── (Aa) Text label #1
-                └── (Aa) Text label #2
-
+    └── iPhone 6/
+        └── App badges/
+            ├── Label
+            └── Calendar
+                ├── Day
+                └── Date
 ```
 
-## Graphical Assets
-* [Layout System](#grid-system)
-  * [Symbol](#layout-system-symbol)
-  * [Shared Styles](#layout-system-shared-styles)
-* [App badges](#app-badges)
-  * [Symbol](#app-badges-symbol)
-  * [Shared Styles](#app-badges-shared-styles)
-  * [Text Styles](#status-bar-text-styles)
-* [Icons](#icons)
-  * [Symbol](#icons-symbol)
-  * [Shared Styles](#icons-shared-styles)
-* [Status Bars](#status-bars)
-  * [Symbol](#status-bar-symbol)
-  * [Shared Styles](#status-bar-shared-styles)
-  * [Text Styles](#status-bar-text-styles)
-* [Nav Bars](nav-bars)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Tab Bars](#tab-bars)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Controlls](#controlls)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Segmented Controllers](#segmented-controllers)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Elements](#elements)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Action Sheets](#action-sheets)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Cells](#cells)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Dialogs](#dialogs)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-* [Keyboards](#keyboards)
-  * [Symbol](#nav-bar-symbol)
-  * [Shared Styles](#nav-bar-shared-styles)
-  * [Text Styles](#nav-bar-text-styles)
-
-### Layout system
-#### Layout system Symbol
+## Overall Symbol Structure
 ```
 Symbol/
 └── iOS/
-    └── iPhone 6
-        └── Grid
-            ├── Horizontal Gutters
-            │   ├── ([]) Horizontal Gutter Top
-            │   ├── ([]) Horizontal Gutter 1
-            │   └── ([]) Horizontal Gutter 2
-            └── Vertical Gutters
-                ├── ([]) Vertical Gutter 1
-                └── ([]) Vertical Gutter 2
+    └── iPhone 6/
+        └── App badges/
+            └── App
+                └── Large
+                    ├── (K) App slice
+                    ├── (O) App Group - App specific shapes
+                    └── (Aa) App label
 ```
 
-#### Grid System Shared Styles
-```
-Shared Styles/
-└── iOS/
-    └── iPhone 6
-        └── Grid
-            ├── Horizontal Gutters
-            │   ├── Horizontal Gutter Top
-            │   ├── Horizontal Gutter 1
-            │   └── Horizontal Gutter 2
-            └── Vertical Gutters
-                ├── Vertical Gutter 1
-                └── Vertical Gutter 2
-```
-
-### App Badges
+## App Badges
+* [AirPort Utility](https://itunes.apple.com/us/app/airport-utility/id427276530?mt=8)
 * [App Store](https://www.apple.com/appstore)
 * [Avocado](http://avocode.com/)
 * [iBooks](http://www.apple.com/ibooks/)
+* [Beats Pill+](https://itunes.apple.com/us/app/beats-pill+/id1005829608?mt=8)
+* Calculator
 * Calender
 * Camera
 * Clock
@@ -144,6 +74,7 @@ Shared Styles/
 * [Heart Rate](https://itunes.apple.com/us/app/sleep-cycle-heart-rate/id813503318?mt=8)
 * [Keynote](http://www.apple.com/ios/keynote/)
 * [LinkedIn](https://itunes.apple.com/en/app/linkedin/id288429040?mt=8)
+* [Logic Remote - WIP](https://itunes.apple.com/us/app/logic-remote/id638394624?mt=8)
 * Mail
 * [Maps](http://www.apple.com/ios/maps/)
 * [Messages](http://www.apple.com/ios/messages/)
@@ -165,15 +96,17 @@ Shared Styles/
 * Settings
 * [Skype](https://itunes.apple.com/en/app/skype-for-iphone/id304878510?mt=8)
 * [Sleep Cycle](https://itunes.apple.com/en/app/sleep-cycle-alarm-clock/id320606217?mt=8)
+* [Snacpchat](https://itunes.apple.com/en/app/snapchat/id447188370?mt=8)
 * [Soundcloud](https://itunes.apple.com/us/app/soundcloud-music-audio/id336353151?mt=8)
 * [Spotify](https://itunes.apple.com/cy/app/spotify-music/id324684580?mt=8)
 * Stocks
+* [TestFlight](https://itunes.apple.com/cy/app/testflight/id899247664?mt=8)
 * [Tips](https://tips.apple.com/en-us/ios/iphone)
 * [Tumblr](https://itunes.apple.com/us/app/tumblr/id305343404?mt=8)
 * [Twitter](https://itunes.apple.com/en/app/twitter/id333903271?mt=8)
 * [Uber](https://itunes.apple.com/us/app/uber/id368677368?mt=8)
 * [Videos](http://www.apple.com/ios/videos/)
-* Voice Memos
+* Voice Memos - WIP
 * Wallet
 * Weather
 * [WhatsApp](https://itunes.apple.com/cy/app/whatsapp-messenger/id310633997?mt=8)
@@ -182,285 +115,36 @@ Shared Styles/
 * [YouTube](https://itunes.apple.com/cy/app/youtube/id544007664?mt=8)
 * [iTunes Store](https://itunes.apple.com/en/app/apple-store/id375380948?mt=8)
 * iTunes U
-* [inVision App](https://itunes.apple.com/us/app/invision-viewer/id990700027?mt=8)
-
-#### App Badges Symbol
-```
-Symbol/
-└── iOS/
-    └── iPhone 6
-        └── App Badges
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            ├── Label
-            └── Label   
-```
-
-### Status Bars
-#### Status Bar Symbol
-```
-Symbol/
-└── iOS/
-    └── Label
-        ├── Label
-        │   ├── Label
-        │   │   ├── Label
-        │   │   └── Label
-        │   ├── Label
-        │   └── Label
-        └── Label    
-```
-
-#### Status Bar Shared Styles
-```
-Shared styles/
-└── iOS/
-    └── Label
-        ├── Label
-        │   ├── Label
-        │   │   ├── Label
-        │   │   └── Label
-        │   ├── Label
-        │   └── Label
-        └── Label    
-```
-
-#### Status Bar Text Styles
-```
-Text styles/
-└── iOS/
-    └── Label
-        ├── Label
-        │   ├── Label
-        │   │   ├── Label
-        │   │   └── Label
-        │   ├── Label
-        │   └── Label
-        └── Label    
-```
-
-### Nav Bars
-
-### Tab Bars
-
-### Controls
-
-### Segmented Controllers
-#### Segmented Controllers Symbol
-```
-Symbol/
-└── iOS/
-    └── iPhone 6
-        └── Controls
-            └── Segmented Controllers
-                ├── 2 Columns
-                │   ├── (Aa) Label - Excluded Text Value -
-                │   ├── (Aa) Label - Excluded Text Value -
-                │   ├── ([]) Segmented-controllers-active
-                │   └── ([]) Segmented-controllers-bg
-                ├── 3 Columns
-                │   ├── (Aa) Label
-                │   ├── (Aa) Label
-                │   ├── (Aa) Label
-                │   ├── (│) divider
-                │   ├── (│) divider
-                │   ├── ([]) Segmented-controllers-active
-                │   └── ([]) Segmented-controllers-bg
-                └──  4 Columns
-                    ├── (Aa) Label
-                    ├── (Aa) Label
-                    ├── (Aa) Label
-                    ├── (Aa) Label
-                    ├── (│) divider
-                    ├── (│) divider
-                    ├── (│) divider
-                    ├── ([]) Segmented-controllers-active
-                    └── ([]) Segmented-controllers-bg
-```
-
-#### Segmented Controllers Shared Styles
-```
-Shared styles/
-└── iOS/
-    └── iPhone 6
-        └── Controls
-            └── Segmented Controllers
-                ├── Background
-                ├── Dividers
-                └── Active
-```
-
-#### Segmented Controllers Text Styles
-```
-Text styles/
-└── iOS/
-    └── iPhone 6
-        └── Controls
-            └── Segmented Controllers
-                ├── Active
-                └── Inactive
-```
-
-
-### Elements
-
-### Action Sheets
-
-### Cells
-
-### Dialogs
-#### Dialogs Symbol
-```
-Symbol/
-└── iOS/
-    └── iPhone 6
-        └── Dialogs
-            ├── 1 Option
-            │   ├── (Aa) Headline
-            │   ├── (Aa) Paragraph
-            │   ├── (Aa) Right button
-            │   ├── (Aa) Left button
-            │   ├── ([]) Dialog-top-bg
-            │   └── ([]) Dialog-bottom-bg
-            └──  2 Option
-                ├── (Aa) Headline
-                ├── (Aa) Center button
-                ├── ([]) Dialog-top-bg
-                └── ([]) Dialog-bottom-bg
-```
-
-#### Dialogs Shared Styles
-```
-Shared styles/
-└── iOS/
-    └── iPhone 6
-        └── Dialogs
-            └── Background
-```
-
-#### Dialogs Text Styles
-```
-Text styles/
-└── iOS/
-    └── iPhone 6
-        └── Dialogs
-            ├── Button
-            │   ├── Medium
-            │   └── Regular
-            ├── Headline
-            └── Paragraph
-```
-
-### Keyboards
-#### Keyboards Symbol
-```
-Symbol/
-└── iOS/
-    └── iPhone 6
-        └── Keyboards
-            ├── Dark
-            │   ├── Background
-            │   └── Keys
-            │       ├── 123
-            │       ├── Delete
-            │       ├── Emojis
-            │       ├── Enter
-            │       ├── Letter key
-            │       └── Space key
-            ├── Light
-            │   ├── Background
-            │   └── Keys
-            │       ├── 123
-            │       ├── Delete
-            │       ├── Bigger Numberic key
-            │       ├── Emojis
-            │       ├── Enter
-            │       ├── Shift
-            │       ├── Voice
-            │       ├── Letter key
-            │       └── Space key
-            ├── Voice
-            │   ├── Background
-            │   └── Sound waves
-            └── Quicktype
-```
-
-#### Keyboard Shared Styles
-```
-Shared styles/
-└── iOS/
-    └── iPhone 6
-        └── Keyboards
-            └── Keyboards
-                ├── Background
-                ├── Dividers
-                └── Active
-```
-
-#### Keyboard Text Styles
-```
-Text styles/
-└── iOS/
-    └── iPhone 6
-        └── Keyboards
-            └── Segmented Controllers
-                ├── Active
-                └── Inactive
-```
 
 ## What's new
-* Every icon is made into a symbol
-* Symbol Structure within Sketch for easier access
-* Brand colors (as shared styles)
-* All shared styles have a structure
-* Minor changes to some cards so that the are coherent with the brand guidelines
+* Every App badge is made into a symbol + structure
+* Shared Styles + structure
+* Text Styles + structure
 * Documentation
 
 ## Bugs
 * Haven't been able to install SF Font Ultra thin and there fore haven't made the Calender App Badge correctly.
+* iWatch wristband needs to be aligned according to the real thing.
+* Podcast app is more alike the MacOS version then the iOS version.
 
 ## Future improvements
 * Update some of the logotypes
 * Make optimizations to the whole framework
 * Make it more lightweight so it runs smoother
 
-## Versioning
-0.1
+## Version
+0.1 Alpha
 
-## Creators
+## Creator
 **Jonas Bröms**
 * [Twitter](https://twitter.com/jonasbroms)
 * [GitHub](https://github.com/bromso)
 
+## Special thanks to
+To all these great apps included in this document!
+
 ## Copyright and license
-Graphical assets, files, code and documentation released under the [MIT](https://). Docs released under [Creative Commons](https://).
+Graphical assets, files, code and documentation released under the [MIT](LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+
+## Disclaimer
+While I have redrawn and shared these assets for the benefit of the design community, I do not own any of the underlying products, logotype or user interface designs. By accessing these assets, you agree to obtain all necessary permissions from the underlying rights holders and/or adhere to any applicable brand use guidelines before using them. I disclaims all express or implied warranties with respect to these assets, including non-infringement of intellectual property rights.

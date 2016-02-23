@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>iTunes U</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#F9671E" offset="0%"></stop>
+            <stop stop-color="#FFA800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/iTunes-U/Large" sketch:type="MSLayerGroup">
+            <g id="iTunes-U" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <g id="Graduate-hat" transform="translate(9.000000, 27.000000)" fill="#FFFFFF">
+                    <path d="M27.6401368,31.9252933 L51.0205086,41.0014644 L102.08594,20.9565453 L51.1499028,0.84326201 L0.0117207695,21.1420878 L24.2448528,30.5768326 L45.8464338,21.8264163 C45.7217497,21.6026954 47.1182368,18.2291009 50.2921325,18.0071605 C53.4660282,17.7852201 56.1333029,18.9541955 56.2496572,20.6181402 C56.3660116,22.2820848 53.8873846,23.8108968 50.7134888,24.0328372 C49.9188756,24.0884019 49.1560171,24.0567847 48.4569935,23.9520448 L47.5339338,23.9520457 L27.6401368,31.9252933 Z" id="top-hat"></path>
+                    <path d="M25,35.8089529 C20.2652516,40.3308568 17.576034,46.6363994 16,50.239487 C16,50.2394874 19.3002569,50 21,50 C22.3539246,50 23.6888054,50.0518867 25,50.1527059 L25,35.8089529 L25,35.8089529 Z M27.0198129,34.9506981 C35.465145,38.23874 51.0158361,44.2931288 51.0158361,44.2931288 L76.0447302,34.4684363 C81.819458,40.2775881 86,50.239487 86,50.239487 C84.3694717,50.0817775 82.6997431,50 81,50 C67.6883901,50 56.217663,55.0156632 51,62.2392379 C46.5854616,56.1275462 37.6947033,51.5963752 27,50.3462637 L27,34.9429843 L27.0198129,34.9506981 Z" id="lower-hat"></path>
+                    <rect id="tassel" x="23" y="54" width="6" height="16" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

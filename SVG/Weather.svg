@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Weather</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1AD5FD" offset="0%"></stop>
+            <stop stop-color="#1C61F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FFE400" offset="0%"></stop>
+            <stop stop-color="#FEC002" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Weather/Large" sketch:type="MSLayerGroup">
+            <g id="Weather" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <circle id="Sun" fill="url(#linearGradient-2)" cx="39.5" cy="48.5" r="22.5"></circle>
+                <path d="M38.064692,61.2190789 C38.0218235,60.6516688 38,60.078383 38,59.5 C38,47.0735931 48.0735931,37 60.5,37 C69.969641,37 78.0729273,42.8500597 81.3930164,51.1333364 L81.3930164,51.1333364 C81.7722682,51.0455095 82.1416685,51 82.5,51 C92.7172679,51 101,59.2827321 101,69.5 C101,79.7172679 92.7172679,88 82.5,88 L64.8405762,88 L40.5,88 C33.0441559,88 27,81.9558441 27,74.5 C27,67.8756232 31.7712489,62.3656313 38.064692,61.2190789 L38.064692,61.2190789 Z" id="Cloud" fill-opacity="0.9" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

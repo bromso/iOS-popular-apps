@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Watch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#B2B4B8" offset="0%"></stop>
+            <stop stop-color="#A8AAAE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="14" height="50" rx="9"></rect>
+        <path id="path-4" d="M39.7196815,74.1887631 C42.0240817,74.5978542 45.3781358,74.3874037 47.7954924,75.0597443 C50.2584,75.744754 52.8450557,76.109703 55.5127715,76.109703 C72.1359522,76.109703 85.6117027,61.9393262 85.6117027,44.4592805 C85.6117027,28.7549727 74.7347951,15.7220531 60.4705764,13.2361798"></path>
+        <path id="path-5" d="M31.044957,80.7207937 C36.6060741,91.3230695 47.3396218,98.5050161 59.6683759,98.5050161 C77.7094955,98.5050161 92.3347126,83.1259218 92.3347126,64.1548476 C92.3347126,61.4913557 88.9077248,57.3572381 88.362177,54.8679728 C86.0431586,44.2865861 87.1362082,40.3109819 76.4646689,31.6856691"></path>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Watch/Large" sketch:type="MSLayerGroup">
+            <g id="Watch">
+                <rect id="app-bg" fill="#1B1B1C" sketch:type="MSShapeGroup" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <g id="Clock" transform="translate(24.000000, 35.000000)">
+                    <mask id="mask-3" sketch:name="clock-bg" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="clock-bg" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <rect id="clock-front" fill="#717274" sketch:type="MSShapeGroup" mask="url(#mask-3)" x="0" y="0" width="2" height="50"></rect>
+                </g>
+                <rect id="on-off-button" stroke="#FFFFFF" sketch:type="MSShapeGroup" x="28" y="61" width="6" height="15" rx="9"></rect>
+                <circle id="option-wheel" stroke="#FFFFFF" fill="#000000" sketch:type="MSShapeGroup" cx="30.5" cy="50.5" r="5.5"></circle>
+                <g id="wristband-top" stroke-linecap="round">
+                    <use stroke="#1B1B1C" stroke-width="6" sketch:type="MSShapeGroup" transform="translate(62.665692, 44.672941) rotate(-75.000000) translate(-62.665692, -44.672941) " xlink:href="#path-4"></use>
+                    <use stroke="#FFFFFF" stroke-width="4" xlink:href="#path-4"></use>
+                </g>
+                <g id="wristband-bottom" stroke-linecap="round">
+                    <use stroke="#1B1B1C" stroke-width="6" sketch:type="MSShapeGroup" transform="translate(61.689835, 65.095343) rotate(-2.000000) translate(-61.689835, -65.095343) " xlink:href="#path-5"></use>
+                    <use stroke="#FFFFFF" stroke-width="4" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

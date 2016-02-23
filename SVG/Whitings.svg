@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Whitings</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#F1F1F2" offset="0%"></stop>
+            <stop stop-color="#F1F1F2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Withings/Large" sketch:type="MSLayerGroup">
+            <g id="Whitings" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <rect id="pink" stroke="#EC0066" fill="#EF077D" transform="translate(34.500000, 34.500000) scale(-1, 1) translate(-34.500000, -34.500000) " x="12" y="12" width="45" height="45" rx="22"></rect>
+                <rect id="orange" stroke="#FF9300" fill="#FFA301" x="63" y="12" width="45" height="45" rx="22"></rect>
+                <rect id="green" stroke="#15D000" fill="#3FD80C" transform="translate(85.500000, 85.500000) scale(1, -1) translate(-85.500000, -85.500000) " x="63" y="63" width="45" height="45" rx="22"></rect>
+                <rect id="blue" stroke="#0834B4" fill="#2A56C0" transform="translate(34.500000, 85.500000) scale(-1, -1) translate(-34.500000, -85.500000) " x="12" y="63" width="45" height="45" rx="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

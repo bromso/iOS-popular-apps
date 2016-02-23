@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Pages</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF8500" offset="0%"></stop>
+            <stop stop-color="#FFBA00" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="120" height="120" rx="26"></rect>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Pages/Large" sketch:type="MSLayerGroup">
+            <g id="Pages">
+                <mask id="mask-3" sketch:name="app-bg" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="app-bg" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <path d="M120.392958,95.5 L25.5,95.5" id="write-line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                <path d="M31.5494736,82.2388135 C35.1052404,77.3039572 39.2628598,72.2972457 40.3152891,71.2602934 C40.3152891,71.2602934 53.1054958,57.4897518 60.1754999,50.4003736 L68.301884,58.5267578 C60.3090309,66.2279559 46.6847109,78.7397066 46.6847109,78.7397066 C45.6562514,79.7530417 40.8542434,84.1224224 36.2795409,87.6022932 L31.31143,82.6341823 L31.5494736,82.2388135 Z" id="middle-pen" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                <path d="M30.6681364,83.4787965 C27.6563394,87.7782453 25.3493624,91.7601839 26.2602934,92.6847109 C27.1923292,93.6306577 31.1216953,91.2118202 35.3057509,88.1164111 L30.6681364,83.4787965 L30.6681364,83.4787965 Z" id="bottom-pen" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                <path d="M70.1737859,56.7095923 C69.9187537,56.9594198 69.6538876,57.2177467 69.380152,57.4837054 L61.2372994,49.3408528 C70.8381695,39.7956587 89.3152891,22.2602934 89.3152891,22.2602934 C91.380672,20.2252838 95.704697,19.2499062 97.7397066,21.3152891 C99.3284198,22.9277144 98.4428764,26.5262105 96.9953112,28.9953112 L97.17427,29.17427 C98.7348776,30.7348776 98.7634201,33.2903442 97.2256626,34.8949608 L77,56 L77.7675323,56.7675323 C78.4482054,57.4482054 78.445169,58.554831 77.7646481,59.2353519 C77.0530859,59.9469141 75.9512557,59.9512557 75.2584112,59.2584112 L75.2584112,59.2584112 C73.5512166,57.5512166 73.7120706,54.5552875 75.6230372,52.5612354 L94.4789176,32.8855342 C94.8590796,32.4888434 94.8493038,31.8493038 94.7297524,31.7297524 L94.7297524,31.7297524 C91.0671491,35.5236536 77.7444965,49.293386 70.1737859,56.7095923 Z" id="top-pen" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

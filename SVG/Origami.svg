@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Origami</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="120" rx="26"></rect>
+        <linearGradient x1="23.0447049%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#6CDDFF" offset="0%"></stop>
+            <stop stop-color="#52C5FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.1459662%" y1="100%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0892FF" offset="0%"></stop>
+            <stop stop-color="#0999FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="31.9259842%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#077BFF" offset="0%"></stop>
+            <stop stop-color="#09A1FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Origami/Large" sketch:type="MSLayerGroup">
+            <g id="Origami">
+                <mask id="mask-2" sketch:name="app-bg" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="app-bg" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <path d="M39.9050293,54.2514648 L76,18 L76,89 L31,89 L39.9050293,54.2514648 Z" id="Middle-shape" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M76,18 L102.311523,44 L76,44 L76,18 Z" id="Back-shape" fill="url(#linearGradient-4)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M-39.6995626,43.1515239 L-39.6995626,41.3751849 L69.1948817,41.3751849 L69.1948817,86.4193465 L47.9768446,107.129496 L23.7439361,107.129496 L-39.6995626,43.1515239 Z" id="Front-shape" fill="url(#linearGradient-5)" sketch:type="MSShapeGroup" mask="url(#mask-2)">
+                    <g transform="translate(14.747660, 74.252340) rotate(-315.000000) translate(-14.747660, -74.252340) "></g>
+                </path>
+            </g>
+        </g>
+    </g>
+</svg>

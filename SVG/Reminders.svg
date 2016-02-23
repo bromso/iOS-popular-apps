@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Reminders</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="120" rx="28"></rect>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Reminders/Large" sketch:type="MSLayerGroup">
+            <g id="Reminders">
+                <mask id="mask-2" sketch:name="app-bg" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="app-bg" fill="#F8F8F8" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <path d="M38.5,105.5 L119.5,105.5" id="Line" stroke="#ADADAD" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M38.5,82.5 L119.5,82.5" id="Line" stroke="#ADADAD" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M38.5,60.5 L119.5,60.5" id="Line" stroke="#ADADAD" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M38.5,37.5 L119.5,37.5" id="Line" stroke="#ADADAD" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M38.5,14.5 L119.5,14.5" id="Line" stroke="#ADADAD" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <g id="Checkbox-1" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                    <g transform="translate(11.000000, 17.000000)">
+                        <circle id="Shape-border" stroke="#FF9500" stroke-width="1" fill="none" cx="8.5" cy="8.5" r="8.5"></circle>
+                        <circle id="Shape-fill" stroke="none" fill="#FF9500" fill-rule="evenodd" cx="8.5" cy="8.5" r="6.5"></circle>
+                    </g>
+                </g>
+                <g id="Checkbox-2" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                    <g transform="translate(11.000000, 40.000000)">
+                        <circle id="Shape-border" stroke="#1AADF8" stroke-width="1" fill="none" cx="8.5" cy="8.5" r="8.5"></circle>
+                        <circle id="Shape-fill" stroke="none" fill="#1AADF8" fill-rule="evenodd" cx="8.5" cy="8.5" r="6.5"></circle>
+                    </g>
+                </g>
+                <g id="Checkbox-3" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                    <g transform="translate(11.000000, 63.000000)">
+                        <circle id="Shape-border" stroke="#63DA38" stroke-width="1" fill="none" cx="8.5" cy="8.5" r="8.5"></circle>
+                        <circle id="Shape-fill" stroke="none" fill="#63DA38" fill-rule="evenodd" cx="8.5" cy="8.5" r="6.5"></circle>
+                    </g>
+                </g>
+                <g id="Checkbox-4" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                    <g transform="translate(11.000000, 86.000000)">
+                        <circle id="Shape-border" stroke="#CC73E1" stroke-width="1" fill="none" cx="8.5" cy="8.5" r="8.5"></circle>
+                        <circle id="Shape-fill" stroke="none" fill="#CC73E1" fill-rule="evenodd" cx="8.5" cy="8.5" r="6.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Messages</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-1">
+            <stop stop-color="#1DB02A" offset="0%"></stop>
+            <stop stop-color="#68FA81" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Messages/Large" sketch:type="MSLayerGroup">
+            <g id="Messages" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M36.7713139,88.3926735 C24.3002309,81.8815812 16,70.2837192 16,57.0607211 C16,36.6897313 35.699471,20.1757812 60,20.1757812 C84.300529,20.1757812 104,36.6897313 104,57.0607211 C104,77.4317108 84.300529,93.9456609 60,93.9456609 C55.5573004,93.9456609 51.268388,93.3936935 47.2255252,92.3671018 C39.5473519,99.7824451 26.9683666,100.919925 31.8366699,96.7547628 C35.7905068,93.3719882 37.0574204,90.8066199 36.7713139,88.3926735 L36.7713139,88.3926735 Z" id="Message-bubble" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

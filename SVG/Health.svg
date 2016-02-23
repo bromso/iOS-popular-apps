@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Health</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAF8FE" offset="0%"></stop>
+            <stop stop-color="#FEFEFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF60AB" offset="0%"></stop>
+            <stop stop-color="#FF2719" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Health/Large" sketch:type="MSLayerGroup">
+            <g id="Health" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M72.6932099,25.9327724 C69.1257282,21.6125204 66.8876953,19.4169922 58.1588226,20 C50.8036106,20.49126 46.2304688,27.4101561 45.5275543,33.2693459 C45.0851915,36.9566899 44.7866657,43.7824665 52.1595894,52.8470754 C59.2065767,61.5109631 72.3118173,69.0949329 72.6932093,69.0770772 C73.116256,69.0572714 85.9230429,63.0616347 93.9969367,52.8470754 C99.9213036,45.3519562 101.02242,37.6991188 100.5,33.2693459 C99.8791865,28.0052601 96.2294922,20.996582 86.3406768,20 C79.0784371,19.2681209 76.3646519,21.755656 72.6932099,25.9327724 Z" id="heart" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Dropbox</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#F0F3F5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#007FE5" offset="0%"></stop>
+            <stop stop-color="#129EF6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Dropbox/Large" sketch:type="MSLayerGroup">
+            <g id="Dropbox" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M40.6473211,18 L60.048,34.166819 L32.0249349,51.4103508 L12.8512588,36.0944823 L40.6473211,18 L40.6473211,18 Z M32.0249349,51.4115912 L60.048,68.7134243 L40.6473211,84.8814837 L12.8512588,66.7870014 L32.0249349,51.4115912 L32.0249349,51.4115912 Z M87.955703,82.8942786 L87.955703,89.0221146 L60.1633621,105.642939 L60.1633621,105.7 L60.1050608,105.642939 L60.048,105.7 L60.048,105.642939 L32.3089986,89.0221146 L32.3089986,82.8942786 L40.6473211,88.3411061 L60.048,72.2301075 L60.048,72.1184668 L60.1050608,72.1742871 L60.1633621,72.1184668 L60.1633621,72.2301075 L79.6173805,88.3423465 L87.955703,82.8942786 L87.955703,82.8942786 Z M79.5057397,18 L107.244741,36.0957228 L88.0710651,51.4115912 L60.048,34.166819 L79.5057397,18 L79.5057397,18 Z M88.0710651,51.4115912 L107.244741,66.785761 L79.5057397,84.8802433 L60.048,68.7134243 L88.0710651,51.4115912 L88.0710651,51.4115912 Z" id="dropbox-icon" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

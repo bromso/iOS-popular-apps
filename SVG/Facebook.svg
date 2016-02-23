@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#2C4A86" offset="0%"></stop>
+            <stop stop-color="#6387D3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Facebook/Large" sketch:type="MSLayerGroup">
+            <g id="Facebook" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M82.1022881,73.0591053 L97.9787458,73.0591053 L100.355661,55.8624386 L82.1022881,55.8624386 L82.1022881,44.2446711 C82.1022881,38.9763114 83.5840847,35.3862193 91.2374407,35.3862193 L100.998627,35.3817018 L100.998627,19.1067982 C99.3099831,18.8854386 93.5159661,18.389864 86.7751186,18.389864 C72.7021695,18.389864 63.0672881,26.8697456 63.0672881,42.4430746 L63.0672881,55.8624386 L48.1505593,55.8624386 L48.1505593,73.0591053 L63.0672881,73.0591053 L63.0700073,120 L82.1022881,120 L82.1022881,73.0591053 Z" id="f" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

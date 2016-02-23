@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Music Memos</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EC2333" offset="0%"></stop>
+            <stop stop-color="#FABD2A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#F9B01D" offset="0%"></stop>
+            <stop stop-color="#ED2D36" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-3" cx="59.5" cy="60" rx="43.5" ry="44"></ellipse>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Music-memos/Large" sketch:type="MSLayerGroup" transform="translate(-18.000000, 0.000000)">
+            <g id="Music-Memos" transform="translate(18.000000, 0.000000)">
+                <rect id="app-bg" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <circle id="circle-borders" stroke="url(#linearGradient-1)" stroke-width="4" sketch:type="MSShapeGroup" cx="59.75" cy="59.75" r="52.75"></circle>
+                <mask id="mask-4" sketch:name="circle-fill" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="circle-fill" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                <path d="M13.9975842,67.0024147 L65.7544403,15.2455586" id="Line" stroke="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M18.5,78.5 L78.5,19.5" id="Line" stroke="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M23.5,88.5 L87.5,25.5" id="Line" stroke="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M32.5,94.5 L95,33" id="Line" stroke="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M41.5,101.5 L100.5,42.5" id="Line" stroke="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M53.5,104.5 L103.5,54.5" id="Line" stroke="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M74.5,83.5 L84.5,73.5" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M66.5,76.5 L76.5,66.5" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M52.5,74.5 L74.5,53.5" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M35.5,77.5 L76.5,36.5" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M37.5,59.5 L59.5,37.5" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                <path d="M35.5,45.5 L45.5,36.5" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

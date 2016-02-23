@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>iTunes Store</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#C743FD" offset="0%"></stop>
+            <stop stop-color="#EF4CB7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/iTunes-Store/Large" sketch:type="MSLayerGroup" transform="translate(-10.000000, 0.000000)">
+            <g id="iTunes-Store" transform="translate(10.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M46.1197732,36.2544841 C46.0991458,34.6103113 47.4049998,33.0012271 49.0194121,32.6640585 L77.4193164,26.7327642 C79.0413702,26.3939997 80.3559139,27.4590581 80.3554534,29.1133073 C80.3554534,29.1133073 80.342987,69.9086906 80.3563041,74.5053172 C80.3631054,76.8528958 78.8445702,81.1008035 71.9613451,82.498892 C65.07812,83.8969806 61.5351562,79.7897792 62.3974608,73.6757807 C63.2597655,67.5617823 71.220703,67.6801753 73.1752929,67.6801753 C75.1298827,67.6801753 77.1805533,66.1801753 77.2589913,64.0561215 C77.2929166,63.1374439 77.1963073,45.4431137 77.1963073,45.4431137 C77.1876066,43.7865082 75.8559438,42.7069183 74.2394474,43.0283043 L52.2699351,47.3962042 C50.6456071,47.7191473 49.3296374,49.319947 49.3306096,50.9750911 C49.3306096,50.9750911 49.3414426,68.3795733 49.3414423,77.0760169 C49.341442,85.7724604 44.7641295,87.210393 43.0473634,88.1161758 C41.3305973,89.0219586 37.221666,88.7113552 35.1877977,88.1161747 C33.1539294,87.5209942 29.6489258,84.0634758 31.5239258,79.6948234 C33.3989258,75.3261711 37.8809355,74.0425664 40.1376952,73.6757807 C41.8785051,73.3928512 45.6031247,73.5053168 46.0824239,71.1297113 C46.5617231,68.7541059 46.1197732,36.2544841 46.1197732,36.2544841 Z" id="note" fill="#FFFFFF"></path>
+                <circle id="circle" stroke="#FFFFFF" stroke-width="5" cx="60" cy="60" r="52"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

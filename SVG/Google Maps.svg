@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Google Maps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="120" rx="28"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.245 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Google-Maps/Large" sketch:type="MSLayerGroup" transform="translate(-16.000000, 0.000000)">
+            <g id="Google-Maps" transform="translate(16.000000, 0.000000)">
+                <mask id="mask-2" sketch:name="app-bg" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="app-bg"></g>
+                <rect id="green-area" fill="#1EA362" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="0" width="120" height="120"></rect>
+                <polygon id="ocean" fill="#4889F4" sketch:type="MSShapeGroup" mask="url(#mask-2)" points="60.5 60 121 120 0 120 "></polygon>
+                <path d="M120,0 L120,121 L60,60.5 L120,0 Z" id="houses-location" fill="#D3D3D3" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M60.5,61.5 L118.5,119.5" id="street-road" stroke="#F1F1F1" stroke-width="13" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M30.0162355,27.0301514 L30.0162355,33.2000008 L38.4507143,33.2 C38.0964286,35.5542857 35.7935714,40.1028571 29.66,40.1028571 C24.3678571,40.1028571 20.05,35.5771429 20.05,30 C20.05,24.4228571 24.3678571,19.8971429 29.66,19.8971429 C32.6714286,19.8971429 34.6864286,21.2228571 35.8378571,22.3657143 L40.045,18.1828571 C37.3435714,15.5771429 33.845,14 29.66,14 C21.0907143,14 14.16,21.1542857 14.16,30 C14.16,38.8457143 21.0907143,46 29.66,46 C38.6057143,46 45.2852785,39.4995466 45.2852785,30.3566895 C45.2852785,29.3052609 45.1745642,27.8211258 45.041707,27.0211258 L30.0162355,27.0301514 Z" id="google-G" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M1.5,119.5 L120.5,0.5" id="highway-road" stroke="#FFDD46" stroke-width="13" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M80.9660645,54.8144531 C91.520752,69.1157227 92.7680345,83.0960202 92.7680345,83.0960202 C93.4508573,86.8933421 94.6130041,86.8890332 95.4580321,83.1190647 C95.4580321,83.1190647 98.3164062,65.3503418 106.999756,54.286377 C115.683105,43.2224121 119.883908,30.8155204 120,26 C120.269531,14.8198242 108.874512,0.501953125 94.0043945,0.501953125 C79.1342773,0.501953125 68,10.6405965 68,25 C68,31.1701899 70.411377,40.5131836 80.9660645,54.8144531 Z" id="pin" fill="#DC4B3F" filter="url(#filter-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <circle id="pin-hole" fill="#812C28" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="94" cy="26" r="9"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

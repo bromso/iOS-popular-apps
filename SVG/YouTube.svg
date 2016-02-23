@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>YouTube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.890196078   0 0 0 0 0.894117647   0 0 0 0 0.894117647  0 0 0 0.7 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/YouTube/Large" sketch:type="MSLayerGroup">
+            <g id="YouTube" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#FFFFFF" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M104.113566,43.0313237 C104.113566,43.0313237 103.245935,36.9137531 100.583891,34.2198353 C97.2076354,30.6839953 93.4232202,30.6665066 91.6876956,30.4594914 C79.2631305,29.5614756 60.6255648,29.5614756 60.6255648,29.5614756 L60.5869163,29.5614756 C60.5869163,29.5614756 41.9498729,29.5614756 29.5247856,30.4594914 C27.7892609,30.6665066 24.0060209,30.6839953 20.6285897,34.2198353 C17.9665466,36.9137531 17.1002205,43.0313237 17.1002205,43.0313237 C17.1002205,43.0313237 16.21222,50.2151909 16.21222,57.3991876 L16.21222,64.1340469 C16.21222,71.3180436 17.1002205,78.5019108 17.1002205,78.5019108 C17.1002205,78.5019108 17.9665466,84.6194814 20.6285897,87.3135287 C24.0060209,90.8493687 28.4426288,90.7375701 30.4186617,91.1082024 C37.5218826,91.789228 60.6062406,92 60.6062406,92 C60.6062406,92 79.2629999,91.972018 91.687565,91.0740022 C93.4230896,90.866987 97.2075048,90.8494982 100.583761,87.3136583 C103.245804,84.6196109 104.113436,78.5020403 104.113436,78.5020403 C104.113436,78.5020403 105,71.3181732 105,64.1341764 L105,57.3993172 C105.000131,50.2151909 104.113566,43.0313237 104.113566,43.0313237 L104.113566,43.0313237 Z" id="youtube" fill="#E72A21"></path>
+                <path d="M51.3359641,73.087 L51.3359641,48.0845409 L74.9267997,60.3352277 L51.3359641,73.087 L51.3359641,73.087 Z" id="play" fill="#FFFFFF" filter="url(#filter-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Find iPhone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="60" cy="60" r="48.5"></circle>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Find-iPhone/Large" sketch:type="MSLayerGroup" transform="translate(-6.000000, 0.000000)">
+            <g id="Find-iPhone" transform="translate(6.000000, 0.000000)">
+                <rect id="app-bg" fill="#EFEFF4" sketch:type="MSShapeGroup" x="0" y="0" width="120" height="120" rx="26"></rect>
+                <g id="outer-radar-circle">
+                    <use stroke="#2FD52C" stroke-width="2" fill="" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use stroke="#020202" stroke-width="4" fill="none" xlink:href="#path-1"></use>
+                </g>
+                <circle id="middle-radar-circle" stroke="#2FD52C" stroke-width="2" sketch:type="MSShapeGroup" cx="60" cy="60" r="32.25"></circle>
+                <circle id="inner-radar-circle" stroke="#2FD52C" stroke-width="2" sketch:type="MSShapeGroup" cx="60" cy="60" r="16.625"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

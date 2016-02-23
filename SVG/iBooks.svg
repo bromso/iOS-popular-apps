@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>iBooks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#F9661D" offset="0%"></stop>
+            <stop stop-color="#FFA700" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Books/Large" sketch:type="MSLayerGroup">
+            <g id="iBooks" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M44.7952564,81.9143228 C35.6169435,79.8383806 28.5931833,83.3058462 23.0671882,86.4584886 C20.8791504,87.7067888 19.8938104,87.731447 19.8938104,85.0612793 L19.8938104,37.2814028 C19.8938104,32.715576 28.7931378,26.9260254 38.5065919,26.9260254 C47.2924549,26.9260254 59.1788217,31.6486817 59.178821,40.7346973 L59.178821,95.1081812 C56.1685253,91.0267803 54.0413189,84.0055885 44.7952564,81.9143228 Z" id="left-page" fill="#FFFFFF"></path>
+                <path d="M85.7952564,81.9143228 C76.6169435,79.8383806 69.5931833,83.3058462 64.0671882,86.4584886 C61.8791504,87.7067888 60.8938104,87.731447 60.8938104,85.0612793 L60.8938104,37.2814028 C60.8938104,32.715576 69.7931378,26.9260254 79.5065919,26.9260254 C88.2924549,26.9260254 100.178822,31.6486817 100.178821,40.7346973 L100.178821,95.1081812 C97.1685253,91.0267803 95.0413189,84.0055885 85.7952564,81.9143228 Z" id="right-page" fill="#FFFFFF" transform="translate(80.536316, 61.017103) scale(-1, 1) translate(-80.536316, -61.017103) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

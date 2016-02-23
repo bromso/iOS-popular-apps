@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="121px" height="120px" viewBox="0 0 121 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>News</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE5562" offset="0%"></stop>
+            <stop stop-color="#F83757" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0801687047 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-2" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.153501472 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="229.879613%" id="linearGradient-4">
+            <stop stop-color="#ACDAF0" offset="0%"></stop>
+            <stop stop-color="#CCE3EE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="229.879613%" id="linearGradient-5">
+            <stop stop-color="#FAFAFA" offset="0%"></stop>
+            <stop stop-color="#CCE3EE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/News/Large" sketch:type="MSLayerGroup">
+            <g id="News" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0.516463415" y="0" width="120.409756" height="120" rx="28"></rect>
+                <g id="papper" transform="translate(17.707317, 26.470588)" fill="#FEFEFE">
+                    <rect id="back-paper" filter="url(#filter-2)" x="0.0737804878" y="7.64705882" width="68.4682927" height="60.5882353"></rect>
+                    <path d="M7.74695122,64.6215598 L7.74695122,2.00222246 C7.74695122,0.896425532 8.64205278,0 9.75564273,0 L83.0602109,0 C84.1695806,0 85.0689024,0.887702594 85.0689024,2.00519875 L85.0689024,61.2376961 C85.0689024,65.1023627 81.9257322,68.2352941 78.0713635,68.2352941 L3.6152439,68.2352941 C3.6152439,68.2352941 7.74695122,67.6009952 7.74695122,64.6215598 Z" id="front-paper" filter="url(#filter-3)"></path>
+                </g>
+                <g id="lines" transform="translate(29.512195, 34.705882)" stroke="#545454" stroke-width="2" stroke-linecap="square">
+                    <path d="M47.5884146,6.47058824 L68.8699604,6.47058824" id="right-headline-2"></path>
+                    <path d="M47.5884146,0.588235294 L68.8699604,0.588235294" id="right-headline-1"></path>
+                    <path d="M0.368902439,6.47058824 L21.6504482,6.47058824" id="left-headline-2"></path>
+                    <path d="M0.368902439,0.588235294 L21.6504482,0.588235294" id="left-headline-1"></path>
+                </g>
+                <g id="city" transform="translate(29.585976, 48.823529)">
+                    <rect id="sky-bg" fill="url(#linearGradient-4)" x="0" y="0" width="69.6487805" height="28.8235294"></rect>
+                    <path d="M-1.11022302e-15,23.8143829 L-1.11022302e-15,15.0091465 C0.844106648,14.4460422 1.85918174,14.1176471 2.95121951,14.1176471 C3.98436284,14.1176471 4.94862095,14.4115761 5.76439199,14.9201032 C6.74474585,12.3860703 9.21170258,10.5882353 12.1,10.5882353 C13.6307144,10.5882353 15.043087,11.0931922 16.1785508,11.9450785 C16.8542545,9.79518352 18.8687296,8.23529412 21.2487805,8.23529412 C23.6735381,8.23529412 25.718857,9.85433563 26.3556637,12.0668471 C27.0605233,11.5094103 27.9522234,11.1764706 28.9219512,11.1764706 C31.2038302,11.1764706 33.0536585,13.020004 33.0536585,15.2941176 C33.0536585,17.5682313 31.2038302,19.4117647 28.9219512,19.4117647 C27.2796198,19.4117647 25.861094,18.4567998 25.1949563,17.0736537 L25.1949563,17.0736537 C24.2226973,18.148129 22.8148823,18.8235294 21.2487805,18.8235294 C20.3774207,18.8235294 19.5550614,18.6144476 18.8294592,18.243878 L18.8294592,18.243878 C18.3918395,21.5588492 15.5457597,24.1176471 12.1,24.1176471 C10.2902488,24.1176471 8.64591736,23.4118112 7.42905758,22.2612995 L7.42905758,22.2612995 C6.48518765,23.7313866 4.83239502,24.7058824 2.95121951,24.7058824 C1.85918174,24.7058824 0.844106648,24.3774873 -2.13162821e-14,23.8143829 L-1.11022302e-15,23.8143829 Z" id="clouds-1" opacity="0.497609608" fill="url(#linearGradient-5)"></path>
+                    <path d="M69.6487805,15.5299597 L69.6487805,21.5288638 C68.8402968,22.3975424 67.685071,22.9411765 66.402439,22.9411765 C64.4960592,22.9411765 62.8711317,21.740236 62.2478222,20.0560698 C61.6564253,21.4079382 60.3035823,22.3529412 58.7292683,22.3529412 C57.0220569,22.3529412 55.5752861,21.2416571 55.0775474,19.7053372 L55.0775474,19.7053372 C53.8844246,21.6462404 51.7366359,22.9411765 49.2853659,22.9411765 C47.627208,22.9411765 46.1079179,22.3486364 44.9290573,21.3644321 C43.9381493,23.6749708 41.6368551,25.2941176 38.9560976,25.2941176 C35.3702878,25.2941176 32.4634146,22.3971366 32.4634146,18.8235294 C32.4634146,15.2499222 35.3702878,12.3529412 38.9560976,12.3529412 C40.4651077,12.3529412 41.8538805,12.8659862 42.9563743,13.7265994 L42.9563743,13.7265994 C43.9411759,11.201547 46.4035442,9.41176471 49.2853659,9.41176471 C52.9010556,9.41176471 55.8564597,12.2291635 56.0617803,15.781275 C56.7521862,15.1155457 57.6927229,14.7058824 58.7292683,14.7058824 C60.3035823,14.7058824 61.6564253,15.6508853 62.2478222,17.0027537 L62.2478222,17.0027537 C62.8711317,15.3185875 64.4960592,14.1176471 66.402439,14.1176471 C67.685071,14.1176471 68.8402968,14.6612812 69.6487805,15.5299597 L69.6487805,15.5299597 Z" id="clouds-2" opacity="0.497609608" fill="url(#linearGradient-5)"></path>
+                    <path d="M0,16.9512525 L7.85947727e-16,29.4117647 L69.6487805,29.4117647 L69.6487805,22.1699721 L62.4761831,22.1699721 L62.4761831,18.620884 L58.3897092,18.620884 L58.3897092,20.5245239 L49.4875859,20.5245239 L49.4875859,14.1868376 L44.6948119,14.1868376 L44.6948119,18.5680054 L41.2093224,18.5680054 L41.2093224,22.2021816 L38.0956891,22.2021816 L38.0956891,9.41176471 L31.7429851,9.41176471 L31.7429851,13.5427857 L27.312306,13.5427857 L27.312306,18.3930586 L24.9306118,18.3930586 L24.9306118,15.6495262 L21.2367939,15.6495262 L21.2367939,12.7670311 L17.0361724,12.7670311 L17.0361724,22.3009699 L13.8044653,22.3009699 L13.8044653,17.032899 L0,16.9512525 Z" fill="#585858"></path>
+                </g>
+                <g id="earth" transform="translate(56.663415, 30.000000)" stroke="#545454">
+                    <circle id="Oval-33" cx="8.33658537" cy="8.25" r="8.25"></circle>
+                    <ellipse id="Oval-33" cx="8.36160978" cy="8.25" rx="4.375" ry="7.75"></ellipse>
+                    <path d="M8.33658537,0.5 L8.33658537,16" id="Line"></path>
+                    <path d="M1.58658537,5 L15.0865854,5" id="Line"></path>
+                    <path d="M1.58658537,11.5 L15.0865854,11.5" id="Line"></path>
+                    <path d="M0.586585366,8.25 L16.0865854,8.25" id="Line"></path>
+                </g>
+                <g id="articles" transform="translate(30.102439, 82.352941)" fill="#BEBCBF">
+                    <rect id="paragraph-2" x="0.0737804878" y="6.47058824" width="69.0585366" height="2.35294118" rx="35"></rect>
+                    <rect id="paragraph-1" x="0.0737804878" y="0" width="69.0585366" height="2.35294118" rx="35"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

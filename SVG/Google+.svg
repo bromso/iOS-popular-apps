@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Google+</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#DC473A" offset="0%"></stop>
+            <stop stop-color="#DE5246" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Google+/Large" sketch:type="MSLayerGroup">
+            <g id="Google+" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#FFFFFF" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <circle id="google-plus-bg" fill="url(#linearGradient-1)" cx="60" cy="60" r="44"></circle>
+                <g id="Google-plus-logo" transform="translate(28.000000, 40.000000)" fill="#FFFFFF">
+                    <path d="M19.8979592,24 L31.1829446,24 C30.7281341,26.9428571 27.7718659,32.6285714 19.8979592,32.6285714 C13.1042274,32.6285714 7.56122449,26.9714286 7.56122449,20 C7.56122449,13.0285714 13.1042274,7.37142857 19.8979592,7.37142857 C23.7638484,7.37142857 26.3505831,9.02857143 27.8287172,10.4571429 L33.2295918,5.22857143 C29.7616618,1.97142857 25.2704082,0 19.8979592,0 C8.89723032,0 0,8.94285714 0,20 C0,31.0571429 8.89723032,40 19.8979592,40 C31.3819242,40 39,31.8857143 39,20.4571429 C39,19.1428571 38.8578717,17.1428571 38.6873178,16.1428571 L19.8979592,16.1428571 L19.8979592,24 Z" id="google-G"></path>
+                    <path d="M64,16.0185548 L56.996582,16.0185546 L56.996582,8.94213867 L52,8.94213867 L52,16.0185546 L45,16.0185548 L45,21.0463863 L52,21.0463863 L52,28.0363775 L56.996582,28.0363775 L56.996582,21.0463863 L64,21.0463863" id="google-plus"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

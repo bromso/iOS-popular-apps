@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1C62F0" offset="0%"></stop>
+            <stop stop-color="#18D6FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Mail/Large" sketch:type="MSLayerGroup">
+            <g id="Mail" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <g id="Envelope" transform="translate(20.000000, 33.000000)" fill="#FFFFFF">
+                    <path d="M78.5155378,0.946975836 L45.6610473,34.3217084 C42.5345372,37.4482187 37.4722166,37.4549726 34.3418742,34.3246303 L1.69297467,0.946975836 L78.5155378,0.946975836 Z" id="top"></path>
+                    <path d="M78.6666853,52.1710232 L1.33331466,52.179269 L25.1155602,28.5535024 L33.8046313,37.436522 C36.4908617,40.1125835 43.7797143,40.0306924 46.1791225,37.4333276 L54.7617466,28.7148 L78.6666853,52.1710232 Z" id="bottom"></path>
+                    <path d="M0.00502232143,3.00111607 L23.2541853,26.6950335 L0,50.1032366 L0.00502232143,3.00111607 Z" id="left-side"></path>
+                    <path d="M57.0050223,3.00111607 L80.2541853,26.6950335 L57,50.1032366 L57.0050223,3.00111607 Z" id="right-side" transform="translate(68.627093, 26.552176) scale(-1, 1) translate(-68.627093, -26.552176) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

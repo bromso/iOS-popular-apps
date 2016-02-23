@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Find Friends</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA800" offset="0%"></stop>
+            <stop stop-color="#FFCC00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Find-Friends/Large" sketch:type="MSLayerGroup" transform="translate(-10.000000, 0.000000)">
+            <g id="Find-Friends" transform="translate(10.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <rect id="app-border" stroke="#FFFFFF" x="8" y="8" width="104" height="104" rx="23"></rect>
+                <g id="right-person" transform="translate(51.000000, 26.000000)" fill="#FFFFFF">
+                    <circle id="head" cx="26" cy="7" r="7"></circle>
+                    <path d="M26.3156721,40 C25.2066449,40 24.1125492,40.8777316 23.8755498,41.9442289 L18.9166547,64.2592566 C18.4973289,66.1462229 16.6277097,67.3359806 14.7407434,66.9166547 C12.8537771,66.4973289 11.6640194,64.6277097 12.0833453,62.7407434 L18,36.1157972 L18,26.0090288 C18,24.3471881 16.6556493,23 15.0005775,23 L3,23 C1.84314575,23 0.5,21.6568542 0,20 C0.5,18.3431458 1.84314575,17 3,17 L49,17 C50.6568542,17 52,18.3431458 52,20 C52,21.6568542 50.6568542,23 49,23 L36.9994225,23 C35.3428872,23 34,24.3419831 34,26.0090288 L34,36.1157972 L39.9166547,62.7407434 C40.3359806,64.6277097 39.1462229,66.4973289 37.2592566,66.9166547 C35.3722903,67.3359806 33.5026711,66.1462229 33.0833453,64.2592566 L28.1244502,41.9442289 C27.8858351,40.8704609 26.8030834,40 25.6843279,40 L26.3156721,40 Z" id="body"></path>
+                </g>
+                <g id="left-person" transform="translate(17.000000, 26.000000)" fill="#FFFFFF">
+                    <path d="M26.3156721,40 C25.2066449,40 24.1125492,40.8777316 23.8755498,41.9442289 L18.9166547,64.2592566 C18.4973289,66.1462229 16.6277097,67.3359806 14.7407434,66.9166547 C12.8537771,66.4973289 11.6640194,64.6277097 12.0833453,62.7407434 L18,36.1157972 L18,26.0090288 C18,24.3471881 16.6556493,23 15.0005775,23 L3,23 C1.84314575,23 0.5,21.6568542 0,20 C0.5,18.3431458 1.84314575,17 3,17 L49,17 C50.6568542,17 52,18.3431458 52,20 C52,21.6568542 50.6568542,23 49,23 L36.9994225,23 C35.3428872,23 34,24.3419831 34,26.0090288 L34,36.1157972 L39.9166547,62.7407434 C40.3359806,64.6277097 39.1462229,66.4973289 37.2592566,66.9166547 C35.3722903,67.3359806 33.5026711,66.1462229 33.0833453,64.2592566 L28.1244502,41.9442289 C27.8858351,40.8704609 26.8030834,40 25.6843279,40 L26.3156721,40 Z" id="body"></path>
+                    <circle id="head" cx="26" cy="7" r="7"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

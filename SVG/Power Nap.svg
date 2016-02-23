@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Power Nap</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Power-Nap/Large" sketch:type="MSLayerGroup" transform="translate(-2.000000, 0.000000)">
+            <g id="Power-Nap" transform="translate(2.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#81B200" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M60,104 C82.09139,104 100,86.09139 100,64 C100,41.90861 82.09139,24 60,24 C37.90861,24 20,41.90861 20,64 C20,86.09139 37.90861,104 60,104 Z" id="clock" stroke="#FFFFFF" stroke-width="8"></path>
+                <path d="M22.0741161,22.5741161 C15.6648484,28.9833838 14.9926384,39.1196553 19.4108887,45.9953613 C24.7098329,34.294652 34.6845712,24.4565428 47.2436532,21.0319824 C39.7124032,15.3469238 29.1097572,15.5384751 22.0741161,22.5741161 Z" id="left-bell" fill="#FFFFFF"></path>
+                <path d="M78.0741161,22.5741161 C71.6648484,28.9833838 70.9926384,39.1196553 75.4108887,45.9953613 C80.7098329,34.294652 90.6845712,24.4565428 103.243653,21.0319824 C95.7124032,15.3469238 85.1097572,15.5384751 78.0741161,22.5741161 Z" id="right-bell" fill="#FFFFFF" transform="translate(87.914606, 31.502979) scale(-1, 1) translate(-87.914606, -31.502979) "></path>
+                <path d="M51.345815,85.3088557 L52.9595983,50.887123 L59.8167647,57.7442895 L68.8328965,40.8522784 L66.9748414,73.0691455 L59.7527139,65.5560024 L51.345815,85.3088557 Z" id="lightning" fill="#FFFFFF" transform="translate(60.089356, 63.080567) scale(1, -1) rotate(-225.000000) translate(-60.089356, -63.080567) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

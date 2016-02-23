@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Trello</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="2.40553253%" id="linearGradient-1">
+            <stop stop-color="#0079BF" offset="0%"></stop>
+            <stop stop-color="#0090E5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Trello/Large" sketch:type="MSLayerGroup">
+            <g id="Trello" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <rect id="Rectangle-5" fill="#FFFFFF" x="18" y="16" width="36" height="78" rx="9"></rect>
+                <rect id="Rectangle-5" fill="#FFFFFF" x="66" y="16" width="36" height="50" rx="9"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

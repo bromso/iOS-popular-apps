@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Vine</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00D1A4" offset="0%"></stop>
+            <stop stop-color="#00BF96" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E6EAED" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Vine/Large" sketch:type="MSLayerGroup">
+            <g id="Vine" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M69.3208585,42.516405 C69.3208585,37.2305624 71.8883506,34.0016147 74.7807683,34.0016147 C77.5281299,34.0016147 79.6561021,36.440007 79.6561021,41.4444407 C79.6561021,44.3310562 78.9801409,47.4642669 78.4144223,49.2948742 C80.1768534,52.3990737 82.6312018,53.675567 88.0882104,52.6833836 C89.8491909,49.0917958 90.8167147,44.7618726 90.8167147,40.5305876 C90.8167147,29.7514724 84.7751302,24 74.6951852,24 C64.3338314,24 58.139938,32.3189645 58.139938,42.8210227 C58.139938,53.2244427 63.2865267,61.6812105 71.3052253,65.7471316 C67.9355732,72.4951391 63.0500854,79.6231934 58.5765568,84.1010737 C50.4244067,74.2459656 43.5763105,60.1088029 40.5852547,34.3657054 L28.7936483,34.3657054 C33.2265612,76.6451927 50.156053,92.8174919 54.5265918,95.4241491 C56.9925447,96.9051714 59.1161653,96.8384456 61.3732374,95.566304 C64.9140556,93.5514755 75.8338752,81.014281 81.726052,68.561219 C84.4115547,68.553476 87.7365365,68.0796137 90.9972643,67.1467816 C90.9685255,66.246582 90.9685255,59.8809547 90.9685246,59.1952045 C88.6598271,59.8809557 86.4420825,60.2380156 84.5328866,60.2059904 C74.0337296,60.0449782 69.3208585,53.3013224 69.3208585,42.516405 Z" id="vine-logo" fill="url(#linearGradient-2)" filter="url(#filter-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

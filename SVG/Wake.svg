@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Wake</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Wake/Large" sketch:type="MSLayerGroup">
+            <g id="Wake" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#0C77F8" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M79.0895192,99 L60,79.788914 L40.9104808,99 L17,74.9495054 L26.632,65.2706882 L40.9104808,79.6332581 L60,60.4205161 L79.0895192,79.6316022 L93.368,65.2690323 L103,74.9511613 L79.0895192,99 L79.0895192,99 Z M79.0895192,60.577828 L60,41.365914 L40.9104808,60.577828 L17,36.5273333 L26.632,26.8485161 L40.9104808,41.211086 L60,22 L79.0895192,41.211086 L93.368,26.8485161 L103,36.5273333 L79.0895192,60.577828 L79.0895192,60.577828 Z" id="Wake-logo" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

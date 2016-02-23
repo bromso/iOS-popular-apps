@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Apple Store</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#038EC9" offset="0%"></stop>
+            <stop stop-color="#01BDE3" offset="51.7059949%"></stop>
+            <stop stop-color="#01D6EC" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Apple-Store/Large" sketch:type="MSLayerGroup" transform="translate(-8.000000, 0.000000)">
+            <g id="Apple-Store" transform="translate(8.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M27,35.9953151 C27,33.2364787 29.2337566,31 32.0013319,31 L87.9986681,31 C90.7608274,31 93,33.2402674 93,35.9953151 L93,90.0046849 C93,92.7635213 90.7662434,95 87.9986681,95 L32.0013319,95 C29.2391726,95 27,92.7597326 27,90.0046849 L27,35.9953151 Z M68.248,61.4347692 C68.2124091,57.5919615 71.4867727,55.7224231 71.6365,55.6353846 C69.7820909,53.0087308 66.9078182,52.6498462 65.8977727,52.6212308 C63.4837273,52.3744231 61.1420909,54.0245769 59.9123636,54.0245769 C58.6580909,54.0245769 56.7644091,52.6450769 54.7234545,52.6856154 C52.0970909,52.7249615 49.6400909,54.2022308 48.2925455,56.4962308 C45.5115455,61.1736538 47.5856364,68.0473077 50.2500455,71.8281154 C51.5828636,73.6797692 53.1402727,75.7472308 55.1787727,75.6745 C57.1730909,75.5946154 57.9180455,74.4392692 60.3247273,74.4392692 C62.7093182,74.4392692 63.4088636,75.6745 65.4878636,75.628 C67.6282273,75.5946154 68.9757727,73.768 70.2619545,71.8996538 C71.8021818,69.7773462 72.4207273,67.6872308 72.4452727,67.5799231 C72.3949545,67.5632308 68.2885,66.0406538 68.248,61.4347692 Z M64.3207273,50.1340769 C65.3933636,48.8308846 66.1272727,47.0579231 65.9235455,45.2587308 C64.3710455,45.3255 62.4295,46.302 61.3114545,47.5765769 C60.3222727,48.6997308 59.4386364,50.5406538 59.6669091,52.2718846 C61.4108636,52.3982692 63.2014545,51.417 64.3207273,50.1340769 Z" id="Apple-bag" fill="#FFFFFF" filter="url(#filter-2)"></path>
+                <ellipse id="handle" cx="60.5" cy="32.5" rx="16.5" ry="15.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

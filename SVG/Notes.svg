@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Notes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="120" rx="28"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFE066" offset="0%"></stop>
+            <stop stop-color="#FFCD02" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Notes/Large" sketch:type="MSLayerGroup">
+            <g id="Notes">
+                <mask id="mask-2" sketch:name="app-bg" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="app-bg" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <rect id="Header" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="0" width="120" height="38"></rect>
+                <path d="M0.48319447,36.5 L119.5,36.5" id="header-line" stroke="#DFB201" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M0.5,82.5 L119.5,82.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M0.5,105.5 L119.5,105.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M0.495798379,60.5 L119.5,60.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M0.48319447,37.5 L119.5,37.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M1,45 L120,45" id="dotted-line" stroke="#AAAAAA" stroke-width="2" stroke-dasharray="2,2" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

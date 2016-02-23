@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Tips</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA800" offset="0%"></stop>
+            <stop stop-color="#FFCC00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFBC00" offset="0%"></stop>
+            <stop stop-color="#FFC916" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFBC00" offset="0%"></stop>
+            <stop stop-color="#FFBC00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Tips/Large" sketch:type="MSLayerGroup">
+            <g id="Tips" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <g id="Lightbulb" transform="translate(32.000000, 16.000000)">
+                    <path d="M11.0957219,51.8146605 C13.410888,53.6340657 19.9335938,59.2518463 20.4887695,70.0402832 C20.4887695,71.2499438 22.2658691,73.0292969 24.0727539,73.0292969 L34.8710938,73.0292969 C37.0952148,73.0292969 38.4887695,71.4414707 38.4887695,70.0402832 C38.4887695,59.8314362 44.4675495,53.6998539 46.7231461,51.955854 C53.5828271,46.6520319 58,38.3418589 58,29 C58,12.9837423 45.0162577,0 29,0 C12.9837423,0 0,12.9837423 0,29 C0,38.2593742 4.33951361,46.5052006 11.0957219,51.8146605 Z" id="light-bulb" fill="#FFFFFF"></path>
+                    <path d="M29,66.5 L29,36" id="Line" stroke="url(#linearGradient-2)" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M18,36 L40,36" id="Line" stroke="url(#linearGradient-3)" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M21,77 L37,77" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M23,83 L35,83" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M25,89 L33,89" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

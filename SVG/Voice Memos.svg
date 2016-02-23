@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="121px" height="120px" viewBox="0 0 121 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Voice Memos</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Voice-Memos/Large" sketch:type="MSLayerGroup" transform="translate(-15.000000, 0.000000)">
+            <g id="Voice-Memos" transform="translate(16.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#FFFFFF" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M119.5,60.5 L0.495833397,60.5" id="line" stroke="#979797" stroke-linecap="square"></path>
+                <g id="Dark-lines" transform="translate(1.000000, 7.000000)" stroke="#000000" stroke-linecap="square">
+                    <path d="M103,51.4697382 L103,55.6154938" id="line-35"></path>
+                    <path d="M100,52.4567667 L100,54.5602882" id="line-34"></path>
+                    <path d="M97,51.4697382 L97,55.6154938" id="line-33"></path>
+                    <path d="M94,52.4447428 L94,54.73452" id="line-32"></path>
+                    <path d="M91,52.4447428 L91,54.73452" id="line-31"></path>
+                    <path d="M88,51.2740932 L88,55.7583199" id="line-30"></path>
+                    <path d="M85,52.4447428 L85,54.73452" id="line-29"></path>
+                    <path d="M82,51.3845063 L82,55.7648358" id="line-28"></path>
+                    <path d="M79,50.4793405 L79,56.5401497" id="line-27"></path>
+                    <path d="M76,49.49569 L76,57.6393366" id="line-26"></path>
+                    <path d="M73,50.4795805 L73,56.6113853" id="line-25"></path>
+                    <path d="M70,48.4625234 L70,58.6114607" id="line-24"></path>
+                    <path d="M67,45.4921913 L67,61.503788" id="line-23"></path>
+                    <path d="M64,46.496094 L64,60.5089235" id="line-22"></path>
+                    <path d="M61,47.4896192 L61,59.5362682" id="line-21"></path>
+                    <path d="M58,37.4969513 L58,69.5039062" id="line-20"></path>
+                    <path d="M55,39.4955366 L55,67.5032043" id="line-19"></path>
+                    <path d="M52,47.495968 L52,59.5104084" id="line-18"></path>
+                    <path d="M49,40.4951934 L49,66.5032883" id="line-17"></path>
+                    <path d="M46,32.4972827 L46,74.5029755" id="line-16"></path>
+                    <path d="M43,16.5 L43,91.5" id="line-15"></path>
+                    <path d="M40,18.5 L40,89.5" id="line-14"></path>
+                    <path d="M37,1.48539102 L37,104.501213" id="line-13"></path>
+                    <path d="M34,32.4970241 L34,74.5027161" id="line-12"></path>
+                    <path d="M31,28.5 L31,78.5" id="line-11"></path>
+                    <path d="M28,40.4951982 L28,66.5295944" id="line-10"></path>
+                    <path d="M25,36.4970239 L25,70.5036774" id="line-9"></path>
+                    <path d="M22,50.3186092 L22,56.6113853" id="line-8"></path>
+                    <path d="M19,52.4397119 L19,54.5432339" id="line-7"></path>
+                    <path d="M16,52.4134962 L16,53.9017715" id="line-6"></path>
+                    <path d="M13,52.4951928 L13,54.5614097" id="line-5"></path>
+                    <path d="M10,51.4691893 L10,55.5416355" id="line-4"></path>
+                    <path d="M7,52.4397119 L7,54.5432339" id="line-3"></path>
+                    <path d="M4,51.4697382 L4,55.6154938" id="line-2"></path>
+                    <path d="M1,52.4397119 L1,54.5432339" id="line-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

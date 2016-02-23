@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Maps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="120" height="120" rx="28"></rect>
+        <path id="path-3" d="M-0.060546875,70.4135742 C11.2299805,70.4135742 21.46875,71.259277 32.1494141,79.9228516 C42.8300781,88.5864261 53.2260742,106.601074 73.0380859,115.456543 C92.8500977,124.312012 112.479004,123.142578 123.340332,123.142578"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#DE2025" offset="0%"></stop>
+            <stop stop-color="#DE2025" offset="19.5093272%"></stop>
+            <stop stop-color="#0073FF" offset="20.6094547%"></stop>
+            <stop stop-color="#0073FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Maps/Large" sketch:type="MSLayerGroup">
+            <g id="Maps">
+                <mask id="mask-2" sketch:name="app-bg" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="app-bg" fill="#E4DDC9" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <rect id="green-location" fill="#72C82E" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="-0.7" y="-4" width="83.7" height="23.6"></rect>
+                <rect id="pink-location" fill="#FCC6D3" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="101" y="-4" width="20" height="22"></rect>
+                <g id="yellow-road">
+                    <use stroke="#FFAE00" stroke-width="21" sketch:type="MSShapeGroup" mask="url(#mask-2)" xlink:href="#path-3"></use>
+                    <use stroke="#FFDE02" stroke-width="19" xlink:href="#path-3"></use>
+                </g>
+                <path d="M101,73 L101,37 L121,37 L121,19 L101,19 L101,-4 L83,-4 L83,19 L83,19 L0,19 L0,37 L83,37 L83,121 L101,121 L101,91 L121,91 L121,73 L101,73 L101,73 Z" id="white-road" stroke-opacity="0.1" stroke="#000000" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <g id="POV" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                    <g transform="translate(81.000000, 71.000000)">
+                        <circle id="pov-bg" fill="#0073FF" cx="10.9633333" cy="10.89" r="10.89"></circle>
+                        <path d="M9.75333333,10.12 C10.3130615,8.29688537 10.9633333,4.62 10.9633333,4.62 C10.9633333,4.62 11.606192,8.27273967 12.1733333,10.12 C12.8895253,12.4527397 14.8133333,17.16 14.8133333,17.16 C14.8133333,17.16 12.1733333,12.98 10.9633333,12.98 C9.75333333,12.98 7.11333333,17.16 7.11333333,17.16 C7.11333333,17.16 9.02972817,12.4768854 9.75333333,10.12 Z" id="arrow" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+                <path d="M96.8039514,70.0427117 L96.8039514,32.7021276 L96.9999997,32.7021276 L96.9999997,23 L0,23 L0,32.7021276 L87.1018238,32.7021276 L87.1018238,32.7021276 L87.1018238,70.0149919 C88.5934906,69.4284881 90.2180959,69.1063829 91.9179329,69.1063829 C93.6443622,69.1063829 95.2931876,69.438645 96.8039514,70.0427117 L96.8039514,70.0427117 Z" id="blue-direction-path" fill="#339BFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <g id="Badge" mask="url(#mask-2)">
+                    <g transform="translate(19.000000, 48.000000)">
+                        <path d="M34.6588745,2.82910602 C27.3506262,2.82910602 23.8553775,0.291891896 22.9021272,0.291891887 C21.9488769,0.291891879 18.4536282,2.82910602 11.7808798,2.82910602 C5.1081313,2.82910602 0.977382687,0.291891892 0.977382687,0.291891892 C0.977382687,0.291891892 -7.04680877,35.3189211 22.9021275,35.3189189 C52.8510638,35.3189167 44.8268726,0.291891892 44.8268726,0.291891892 C44.8268726,0.291891892 41.9671228,2.82910602 34.6588745,2.82910602 Z" id="badge" stroke="#FFFFFF" stroke-width="1.5" fill="url(#linearGradient-4)" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
+                        <path d="M0.500757797,7.27027027 L45.3034975,7.27027027" id="Line" stroke="#FFFFFF" stroke-width="1" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
+                        <text id="280" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="16.9297297" font-weight="normal" sketch:alignment="middle" letter-spacing="0.99000001">
+                            <tspan x="7.79273306" y="23.5634615" fill="#FFFFFF">28</tspan>
+                            <tspan x="28.5985925" y="23.5634615" fill="#FFFFFF">0</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

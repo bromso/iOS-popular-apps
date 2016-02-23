@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Heart Rate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Heart-Rate/Large" sketch:type="MSLayerGroup" transform="translate(-1.000000, 0.000000)">
+            <g id="Heart-Rate" transform="translate(1.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="#DB3900" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M59.7983004,50.3662108 C57.0758332,47.1570813 55.3679142,44.1119329 48.7066131,44.5449974 C43.0935995,44.9099106 38.6036787,50.0493408 38.0672606,54.4016098 C37.7296785,57.1406085 38.5018632,62.2108685 44.1283933,68.9441572 C49.5061901,75.3797859 59.5072471,81.01324 59.7983003,80.9999766 C60.1211418,80.9852646 69.8944385,76.5316414 76.0559028,68.9441572 C80.5769896,63.3767023 82.4172891,57.6920926 82.0186127,54.4016098 C81.5448487,50.4913904 77.7596422,45.2852692 70.2131492,44.5449974 C64.6710859,44.0013497 62.6001033,47.263404 59.7983004,50.3662108 Z" id="heart" fill="#FFFFFF"></path>
+                <circle id="circle" stroke="#FFFFFF" stroke-width="8" cx="60" cy="60" r="43"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

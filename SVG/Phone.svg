@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#68FA81" offset="0%"></stop>
+            <stop stop-color="#02B41F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Phone/Large" sketch:type="MSLayerGroup">
+            <g id="Phone" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-1)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M47.4780265,38.4931639 C47.4780265,38.4931639 49.5752647,41.4894142 46.2554256,44.8310545 C44.0656156,47.0341874 42.3249044,52.431972 44.0429679,54.5375974 C51.9262687,64.1992185 57.6953136,69.8022459 64.6953136,75.768524 C65.5513251,76.4981244 68.4865998,77.1904487 69.9412247,76.4964437 C71.3958496,75.8024387 76.6777355,72.862911 76.6777355,72.862911 C76.6777355,72.862911 79.1304333,70.6706787 82.284341,72.862911 C85.4685281,75.0757334 94.8291026,80.7363279 96.8632823,82.1821287 C98.897462,83.6279295 99.743481,85.033393 98.3033817,88.2012686 C96.8632823,91.3691442 93.725587,95.6835974 91.4604503,96.7915075 C89.1953136,97.8994177 87.7927783,99.0885483 82.2843405,97.7828983 C76.7783249,96.4772484 63.9022908,93.4057008 46.2554263,75.7685257 C29.9372241,59.4563794 25.9843752,48.4633787 23.7719727,41.5498045 C21.5595703,34.6362303 21.4465107,31.9305005 23.7719726,28.5258789 C26.0986457,25.1212573 32.5353393,17.1434457 37.7119144,22.9038086 L47.4780265,38.4931639 Z" id="telephone" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
