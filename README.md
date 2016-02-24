@@ -1,6 +1,6 @@
-![Sketch-example](images/header.png)
+![Sketch-example](images/header.jpg)
 # 83 vectorized iOS popular apps (iPhone)
-Sketch vectorized template of 83 popular iOS apps.
+Sketch vectorized template of 83 popular iOS apps. This project is not made for commercial use. For further details, read the [discalimer](#discalimer) and [Copyright & License](#copyright-and-license)
 Created by [Jonas Bröms](https://twitter.com/jonasbroms).
 
 ## Table of contents
@@ -68,11 +68,14 @@ Symbol/
 * [Find Friends](https://itunes.apple.com/en/app/find-my-friends/id466122094?mt=8)
 * [Find iPhone](https://itunes.apple.com/en/app/find-my-iphone/id376101648?mt=8)
 * [Framerjs](http://framerjs.com/)
+* [Flinto](https://www.flinto.com/mac)
 * [Game Center - WIP](https://developer.apple.com/game-center/)
 * [GarageBand](https://itunes.apple.com/en/app/garageband/id408709785?mt=8)
 * [Health](http://www.apple.com/ios/health/)
 * [Heart Rate](https://itunes.apple.com/us/app/sleep-cycle-heart-rate/id813503318?mt=8)
 * [Keynote](http://www.apple.com/ios/keynote/)
+* [iTunes Store](https://itunes.apple.com/en/app/apple-store/id375380948?mt=8)
+* iTunes U
 * [LinkedIn](https://itunes.apple.com/en/app/linkedin/id288429040?mt=8)
 * [Logic Remote - WIP](https://itunes.apple.com/us/app/logic-remote/id638394624?mt=8)
 * Mail
@@ -94,6 +97,7 @@ Symbol/
 * Remote
 * Safari
 * Settings
+* [Sympli](https://sympli.io/)
 * [Skype](https://itunes.apple.com/en/app/skype-for-iphone/id304878510?mt=8)
 * [Sleep Cycle](https://itunes.apple.com/en/app/sleep-cycle-alarm-clock/id320606217?mt=8)
 * [Snacpchat](https://itunes.apple.com/en/app/snapchat/id447188370?mt=8)
@@ -111,10 +115,10 @@ Symbol/
 * Weather
 * [WhatsApp](https://itunes.apple.com/cy/app/whatsapp-messenger/id310633997?mt=8)
 * [Withings](https://itunes.apple.com/us/app/health-mate-steps-tracker/id542701020?mt=8)
+* [Wake](https://wake.io/)
 * [Yoga Studio](https://itunes.apple.com/us/app/yoga-studio/id567767430?mt=8)
 * [YouTube](https://itunes.apple.com/cy/app/youtube/id544007664?mt=8)
-* [iTunes Store](https://itunes.apple.com/en/app/apple-store/id375380948?mt=8)
-* iTunes U
+* [Zeplin](https://zeplin.io/)
 
 ## What's new
 * Every App badge is made into a symbol + structure
@@ -144,7 +148,7 @@ Symbol/
 To all these great apps included in this document!
 
 ## Copyright and license
-Graphical assets, files, code and documentation released under the [MIT](LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Graphical assets, files, code and documentation released under the [MIT](). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 ## Disclaimer
 While I have redrawn and shared these assets for the benefit of the design community, I do not own any of the underlying products, logotype or user interface designs. By accessing these assets, you agree to obtain all necessary permissions from the underlying rights holders and/or adhere to any applicable brand use guidelines before using them. I disclaims all express or implied warranties with respect to these assets, including non-infringement of intellectual property rights.
