@@ -76,6 +76,7 @@ Symbol/
 * [Keynote](http://www.apple.com/ios/keynote/)
 * [iTunes Store](https://itunes.apple.com/en/app/apple-store/id375380948?mt=8)
 * iTunes U
+* [IMDb](https://itunes.apple.com/en/app/imdb-movies-tv/id342792525?mt=8)
 * [LinkedIn](https://itunes.apple.com/en/app/linkedin/id288429040?mt=8)
 * [Logic Remote - WIP](https://itunes.apple.com/us/app/logic-remote/id638394624?mt=8)
 * Mail
@@ -86,6 +87,7 @@ Symbol/
 * [Music - WIP](http://www.apple.com/music/)
 * [News](http://www.apple.com/news/)
 * Notes
+* [Netflix](https://itunes.apple.com/us/app/netflix/id363590051?mt=8)
 * [Numbers](http://www.apple.com/ios/numbers/)
 * [Origami](https://itunes.apple.com/us/app/origami-live-design-prototyping/id942636206?mt=8)
 * [Pages](http://www.apple.com/ios/pages/)
@@ -96,9 +98,12 @@ Symbol/
 * Reminders
 * Remote
 * Safari
+* [Shazam](https://itunes.apple.com/us/app/shazam-discover-music-artists/id284993459?mt=8)
+* [Sketch Mirror](https://itunes.apple.com/us/app/sketch-mirror/id677296955?mt=8)
 * Settings
 * [Sympli](https://sympli.io/)
 * [Skype](https://itunes.apple.com/en/app/skype-for-iphone/id304878510?mt=8)
+* [Slack](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8)
 * [Sleep Cycle](https://itunes.apple.com/en/app/sleep-cycle-alarm-clock/id320606217?mt=8)
 * [Snacpchat](https://itunes.apple.com/en/app/snapchat/id447188370?mt=8)
 * [Soundcloud](https://itunes.apple.com/us/app/soundcloud-music-audio/id336353151?mt=8)
@@ -137,7 +142,7 @@ Symbol/
 * Make it more lightweight so it runs smoother
 
 ## Version
-0.1 Alpha
+0.2 Alpha
 
 ## Creator
 **Jonas Bröms**
