@@ -1,6 +1,6 @@
 ![Sketch-example](images/header.jpg)
 # 90 vectorized iOS popular apps (iPhone)
-Sketch vectorized template of 90 popular iOS apps. This project is not made for commercial use. For further details, read the [disclaimer](#disclaimer) and [Copyright & License](#copyright-and-license)
+Sketch vectorized template of 90 popular iOS apps. This project is not made for commercial use. For further details, read the [disclaimer](#disclaimer).
 Created by [Jonas Bröms](https://twitter.com/jonasbroms).
 
 ## Table of contents
@@ -14,7 +14,6 @@ Created by [Jonas Bröms](https://twitter.com/jonasbroms).
 * [Version](#version)
 * [Creator](#creator)
 * [Special thanks to](#special-thanks-to)
-* [Copyright and license](#copyright-and-license)
 * [Disclaimer](#disclaimer)
 
 ## File formats
