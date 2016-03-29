@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Sketch-Mirror</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#34CBF6" offset="0%"></stop>
+            <stop stop-color="#269DF4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#061C31" offset="0%"></stop>
+            <stop stop-color="#040E18" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-3" d="M33.5,4.71508935e-07 L20.5947387,0 L9.44039996,4.72798184 L0,16.3242907 L33.5,61 L67,16.3242907 L57.5596,4.72798184 L46.4052613,0 L33.5,4.71508935e-07 L33.5,4.71508935e-07 Z"></path>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Sketch/Large" sketch:type="MSLayerGroup" transform="translate(-17.000000, 0.000000)">
+            <g id="Sketch" transform="translate(17.000000, 0.000000)">
+                <rect id="app-bg" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <circle id="Circle" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup" cx="60" cy="60" r="52"></circle>
+                <g id="Diamond" transform="translate(26.000000, 29.000000)">
+                    <mask id="mask-4" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" stroke="#2DAEE5" stroke-width="3" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                    <path d="M9.05075357,4.60412326 L21.0039062,11.1528319 L46.4101553,11.1528319 L58.4051351,4.26285156" id="Path-230" stroke="#2DAEE5" stroke-width="3" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                    <path d="M45.6542967,10.5449219 L53.2812508,26.3808594 L32.9975689,62.1281661" id="Path-230" stroke="#2DAEE5" stroke-width="3" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                    <path d="M27.1318033,10.25 L34.0541656,27.0551758 L14.6269539,62.1281661" id="Path-230-Copy-2" stroke="#2DAEE5" stroke-width="3" sketch:type="MSShapeGroup" mask="url(#mask-4)">
+                        <g transform="translate(24.340560, 36.189083) scale(-1, 1) translate(-24.340560, -36.189083) "></g>
+                    </path>
+                    <path d="M0.521972655,16.6528321 L14.3447266,26.4238281 L53.1132812,26.4238281 L66.9702148,16.6528321" id="Path-229" stroke="#2DAEE5" stroke-width="3" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

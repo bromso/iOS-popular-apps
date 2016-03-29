@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="137px" viewBox="0 0 120 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Podcasts</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.224 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#D66EFC" offset="0%"></stop>
+            <stop stop-color="#842CC2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E9E9E9" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2" in="SourceAlpha" operator="dilate" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.674509804   0 0 0 0 0.298039216   0 0 0 0 0.894117647  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="8" in="SourceAlpha" operator="dilate" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EBEAEA" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="8" in="SourceAlpha" operator="dilate" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Popular-Apps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iOS/iPhone-6/App-Badges/Podcast/Large" sketch:type="MSLayerGroup">
+            <text id="app-label" fill="white" filter="url(#filter-1)" sketch:type="MSTextLayer" font-family="SF UI Text" font-size="24" font-weight="normal" sketch:alignment="middle">
+                <tspan x="8.00976562" y="152" fill="#FFFFFF">Podcasts</tspan>
+            </text>
+            <g id="Podcast" sketch:type="MSShapeGroup">
+                <rect id="app-bg" fill="url(#linearGradient-2)" x="0" y="0" width="120" height="120" rx="28"></rect>
+                <path d="M45.0959264,89.3047869 C26.9819831,81.9777811 17.5795728,61.6618013 24.0158127,42.9696033 C30.6686468,23.6483702 51.7247886,13.3786036 71.0460217,20.0314377 C90.3672548,26.6842718 100.637021,47.7404136 93.9841873,67.0616467 C90.4922163,77.2030668 82.9114542,85.1294191 73.2517486,89.1616397 C72.6461788,89.4144208 73.0915282,94.5827864 73.0915282,94.5827864 C84.6999641,90.4401875 94.3869499,81.2497065 98.7117802,68.6894875 C106.263646,46.7572769 94.6060731,22.8557105 72.6738625,15.3038448 C50.7416519,7.7519791 26.8400855,19.4095519 19.2882198,41.3417625 C11.7363541,63.2739731 23.3939269,87.1755395 45.3261375,94.7274052 C45.3261375,94.7274052 45.705502,89.5513574 45.0959264,89.3047869 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M44.0698943,72.598031 C35.4003474,65.0247807 33.5241499,52.0033697 40.1282492,42.2123898 C47.2831482,31.6048158 61.6824776,28.8058697 72.2900516,35.9607687 C82.8976256,43.1156677 85.6965717,57.5149971 78.5416727,68.1225711 C77.2867258,69.9831064 75.7956698,71.6252428 74.1104137,73.0214076 C73.3534962,73.6484824 74.396617,78.9782655 74.396617,78.9782655 C77.5948383,76.9575737 80.4357587,74.2559315 82.6868606,70.9185357 C91.3859281,58.0216376 87.9829142,40.5146484 75.0860161,31.8155808 C62.1891181,23.1165133 44.6821289,26.5195272 35.9830613,39.4164253 C27.2839937,52.3133233 30.6870077,69.8203125 43.5839058,78.5193801 C43.5839058,78.5193801 44.7929579,73.2296605 44.0698943,72.598031 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M60.603359,106 C63.5823948,106 66.2305638,103.419743 66.5169453,100.237037 L68.9818744,71.7629633 C69.2426729,68.5801665 65.8227617,66 61.3484774,66 L56.8076169,66 C52.3325018,66 48.91525,68.5802571 49.178284,71.7629633 L51.6630299,100.237037 C51.9515996,103.419833 54.6020744,106 57.5805571,106 L60.603359,106 Z" id="body" fill="url(#linearGradient-3)" filter="url(#filter-4)"></path>
+                <circle id="head" fill="url(#linearGradient-5)" filter="url(#filter-6)" cx="59.0585938" cy="52.2695312" r="9.78515625"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

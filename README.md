@@ -1,6 +1,6 @@
 ![Sketch-example](images/header.jpg)
-# 83 vectorized iOS popular apps (iPhone)
-Sketch vectorized template of 83 popular iOS apps. This project is not made for commercial use. For further details, read the [discalimer](#discalimer) and [Copyright & License](#copyright-and-license)
+# 90 vectorized iOS popular apps (iPhone)
+Sketch vectorized template of 90 popular iOS apps. This project is not made for commercial use. For further details, read the [disclaimer](#disclaimer) and [Copyright & License](#copyright-and-license)
 Created by [Jonas Bröms](https://twitter.com/jonasbroms).
 
 ## Table of contents
@@ -21,8 +21,8 @@ Created by [Jonas Bröms](https://twitter.com/jonasbroms).
 Following file formats are included within this template:
 * Documentation (README.md)
 * Sketch file
-* PNG (60x60px, 76x76px, 80x80px, 120x120px, 167x167px, 180x180px)
-* SVG
+* PNG's (60x60px, 76x76px, 80x80px, 120x120px, 167x167px, 180x180px)
+* SVG's
 
 ## Text Styles Structure
 ```
@@ -45,7 +45,7 @@ Symbol/
             └── App
                 └── Large
                     ├── (K) App slice
-                    ├── (O) App Group - App specific shapes
+                    ├── (O) App Group - App specific shapes and text
                     └── (Aa) App label
 ```
 
@@ -81,8 +81,10 @@ Symbol/
 * [Logic Remote - WIP](https://itunes.apple.com/us/app/logic-remote/id638394624?mt=8)
 * Mail
 * [Maps](http://www.apple.com/ios/maps/)
+* [Medium](https://itunes.apple.com/us/app/medium/id828256236?mt=8)
 * [Messages](http://www.apple.com/ios/messages/)
 * [Messenger](https://itunes.apple.com/us/app/messenger/id454638411?mt=8)
+* [Mixcloud](https://itunes.apple.com/en/app/mixcloud-radio-dj-mixes/id401206431?mt=8)
 * [Music Memos - WIP](http://www.apple.com/music-memos/)
 * [Music - WIP](http://www.apple.com/music/)
 * [News](http://www.apple.com/news/)
@@ -132,9 +134,9 @@ Symbol/
 * Documentation
 
 ## Bugs
-* Haven't been able to install SF Font Ultra thin and there fore haven't made the Calender App Badge correctly.
 * iWatch wristband needs to be aligned according to the real thing.
-* Podcast app is more alike the MacOS version then the iOS version.
+* Airbnb doesn't have the correct shadowing effect
+* Google+ doesn't have the correct shadowing effect
 
 ## Future improvements
 * Update some of the logotypes
@@ -150,10 +152,11 @@ Symbol/
 * [GitHub](https://github.com/bromso)
 
 ## Special thanks to
-To all these great apps included in this document!
+To all these great apps and their creators that are included within the sketch document!
 
 ## Copyright and license
-Graphical assets, files, code and documentation released under the [MIT](). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Graphical assets (the App badges) are property of the underlying rights holder and you have to follow their licensing for usage. For more further information, please read every rights holder license on their [websites](#app-badges) and the [disclaimer](#disclaimer).
+Documentation released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 ## Disclaimer
 While I have redrawn and shared these assets for the benefit of the design community, I do not own any of the underlying products, logotype or user interface designs. By accessing these assets, you agree to obtain all necessary permissions from the underlying rights holders and/or adhere to any applicable brand use guidelines before using them. I disclaims all express or implied warranties with respect to these assets, including non-infringement of intellectual property rights.
